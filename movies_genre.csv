@@ -1,0 +1,2556 @@
+Title,Genre,Rating,Revenue (Millions),Metascore
+Guardians of the Galaxy,Action,8.1,333.13,76.0
+Guardians of the Galaxy,Adventure,8.1,333.13,76.0
+Guardians of the Galaxy,Sci-Fi,8.1,333.13,76.0
+Prometheus,Adventure,7.0,126.46,65.0
+Prometheus,Mystery,7.0,126.46,65.0
+Prometheus,Sci-Fi,7.0,126.46,65.0
+Split,Horror,7.3,138.12,62.0
+Split,Thriller,7.3,138.12,62.0
+Sing,Animation,7.2,270.32,59.0
+Sing,Comedy,7.2,270.32,59.0
+Sing,Family,7.2,270.32,59.0
+Suicide Squad,Action,6.2,325.02,40.0
+Suicide Squad,Adventure,6.2,325.02,40.0
+Suicide Squad,Fantasy,6.2,325.02,40.0
+The Great Wall,Action,6.1,45.13,42.0
+The Great Wall,Adventure,6.1,45.13,42.0
+The Great Wall,Fantasy,6.1,45.13,42.0
+La La Land,Comedy,8.3,151.06,93.0
+La La Land,Drama,8.3,151.06,93.0
+La La Land,Music,8.3,151.06,93.0
+Mindhorn,Comedy,6.4,47.985,71.0
+The Lost City of Z,Action,7.1,8.01,78.0
+The Lost City of Z,Adventure,7.1,8.01,78.0
+The Lost City of Z,Biography,7.1,8.01,78.0
+Passengers,Adventure,7.0,100.01,41.0
+Passengers,Drama,7.0,100.01,41.0
+Passengers,Romance,7.0,100.01,41.0
+Fantastic Beasts and Where to Find Them,Adventure,7.5,234.02,66.0
+Fantastic Beasts and Where to Find Them,Family,7.5,234.02,66.0
+Fantastic Beasts and Where to Find Them,Fantasy,7.5,234.02,66.0
+Hidden Figures,Biography,7.8,169.27,74.0
+Hidden Figures,Drama,7.8,169.27,74.0
+Hidden Figures,History,7.8,169.27,74.0
+Rogue One,Action,7.9,532.17,65.0
+Rogue One,Adventure,7.9,532.17,65.0
+Rogue One,Sci-Fi,7.9,532.17,65.0
+Moana,Animation,7.7,248.75,81.0
+Moana,Adventure,7.7,248.75,81.0
+Moana,Comedy,7.7,248.75,81.0
+Colossal,Action,6.4,2.87,70.0
+Colossal,Comedy,6.4,2.87,70.0
+Colossal,Drama,6.4,2.87,70.0
+The Secret Life of Pets,Animation,6.6,368.31,61.0
+The Secret Life of Pets,Adventure,6.6,368.31,61.0
+The Secret Life of Pets,Comedy,6.6,368.31,61.0
+Hacksaw Ridge,Biography,8.2,67.12,71.0
+Hacksaw Ridge,Drama,8.2,67.12,71.0
+Hacksaw Ridge,History,8.2,67.12,71.0
+Jason Bourne,Action,6.7,162.16,58.0
+Jason Bourne,Thriller,6.7,162.16,58.0
+Lion,Biography,8.1,51.69,69.0
+Lion,Drama,8.1,51.69,69.0
+Arrival,Drama,8.0,100.5,81.0
+Arrival,Mystery,8.0,100.5,81.0
+Arrival,Sci-Fi,8.0,100.5,81.0
+Gold,Adventure,6.7,7.22,49.0
+Gold,Drama,6.7,7.22,49.0
+Gold,Thriller,6.7,7.22,49.0
+Manchester by the Sea,Drama,7.9,47.7,96.0
+Hounds of Love,Crime,6.7,47.985,72.0
+Hounds of Love,Drama,6.7,47.985,72.0
+Hounds of Love,Horror,6.7,47.985,72.0
+Trolls,Animation,6.5,153.69,56.0
+Trolls,Adventure,6.5,153.69,56.0
+Trolls,Comedy,6.5,153.69,56.0
+Independence Day: Resurgence,Action,5.3,103.14,32.0
+Independence Day: Resurgence,Adventure,5.3,103.14,32.0
+Independence Day: Resurgence,Sci-Fi,5.3,103.14,32.0
+Paris pieds nus,Comedy,6.8,47.985,59.5
+Bahubali: The Beginning,Action,8.3,6.5,59.5
+Bahubali: The Beginning,Adventure,8.3,6.5,59.5
+Bahubali: The Beginning,Drama,8.3,6.5,59.5
+Dead Awake,Horror,4.7,0.01,59.5
+Dead Awake,Thriller,4.7,0.01,59.5
+Bad Moms,Comedy,6.2,113.08,60.0
+Assassin's Creed,Action,5.9,54.65,36.0
+Assassin's Creed,Adventure,5.9,54.65,36.0
+Assassin's Creed,Drama,5.9,54.65,36.0
+Why Him?,Comedy,6.3,60.31,39.0
+Nocturnal Animals,Drama,7.5,10.64,67.0
+Nocturnal Animals,Thriller,7.5,10.64,67.0
+X-Men: Apocalypse,Action,7.1,155.33,52.0
+X-Men: Apocalypse,Adventure,7.1,155.33,52.0
+X-Men: Apocalypse,Sci-Fi,7.1,155.33,52.0
+Deadpool,Action,8.0,363.02,65.0
+Deadpool,Adventure,8.0,363.02,65.0
+Deadpool,Comedy,8.0,363.02,65.0
+Resident Evil: The Final Chapter,Action,5.6,26.84,49.0
+Resident Evil: The Final Chapter,Horror,5.6,26.84,49.0
+Resident Evil: The Final Chapter,Sci-Fi,5.6,26.84,49.0
+Captain America: Civil War,Action,7.9,408.08,75.0
+Captain America: Civil War,Adventure,7.9,408.08,75.0
+Captain America: Civil War,Sci-Fi,7.9,408.08,75.0
+Interstellar,Adventure,8.6,187.99,74.0
+Interstellar,Drama,8.6,187.99,74.0
+Interstellar,Sci-Fi,8.6,187.99,74.0
+Doctor Strange,Action,7.6,232.6,72.0
+Doctor Strange,Adventure,7.6,232.6,72.0
+Doctor Strange,Fantasy,7.6,232.6,72.0
+The Magnificent Seven,Action,6.9,93.38,54.0
+The Magnificent Seven,Adventure,6.9,93.38,54.0
+The Magnificent Seven,Western,6.9,93.38,54.0
+5- 25- 77,Comedy,7.1,47.985,59.5
+5- 25- 77,Drama,7.1,47.985,59.5
+Sausage Party,Animation,6.3,97.66,66.0
+Sausage Party,Adventure,6.3,97.66,66.0
+Sausage Party,Comedy,6.3,97.66,66.0
+Moonlight,Drama,7.5,27.85,99.0
+Don't Fuck in the Woods,Horror,2.7,47.985,59.5
+The Founder,Biography,7.2,12.79,66.0
+The Founder,Drama,7.2,12.79,66.0
+The Founder,History,7.2,12.79,66.0
+Lowriders,Drama,6.3,4.21,57.0
+Pirates of the Caribbean: On Stranger Tides,Action,6.7,241.06,45.0
+Pirates of the Caribbean: On Stranger Tides,Adventure,6.7,241.06,45.0
+Pirates of the Caribbean: On Stranger Tides,Fantasy,6.7,241.06,45.0
+Miss Sloane,Drama,7.3,3.44,64.0
+Miss Sloane,Thriller,7.3,3.44,64.0
+Fallen,Adventure,5.6,47.985,59.5
+Fallen,Drama,5.6,47.985,59.5
+Fallen,Fantasy,5.6,47.985,59.5
+Star Trek Beyond,Action,7.1,158.8,68.0
+Star Trek Beyond,Adventure,7.1,158.8,68.0
+Star Trek Beyond,Sci-Fi,7.1,158.8,68.0
+The Last Face,Drama,3.7,47.985,16.0
+Star Wars: Episode VII - The Force Awakens,Action,8.1,936.63,81.0
+Star Wars: Episode VII - The Force Awakens,Adventure,8.1,936.63,81.0
+Star Wars: Episode VII - The Force Awakens,Fantasy,8.1,936.63,81.0
+Underworld: Blood Wars,Action,5.8,30.35,23.0
+Underworld: Blood Wars,Adventure,5.8,30.35,23.0
+Underworld: Blood Wars,Fantasy,5.8,30.35,23.0
+Mother's Day,Comedy,5.6,32.46,18.0
+Mother's Day,Drama,5.6,32.46,18.0
+John Wick,Action,7.2,43.0,68.0
+John Wick,Crime,7.2,43.0,68.0
+John Wick,Thriller,7.2,43.0,68.0
+The Dark Knight,Action,9.0,533.32,82.0
+The Dark Knight,Crime,9.0,533.32,82.0
+The Dark Knight,Drama,9.0,533.32,82.0
+Silence,Adventure,7.3,7.08,79.0
+Silence,Drama,7.3,7.08,79.0
+Silence,History,7.3,7.08,79.0
+Don't Breathe,Crime,7.2,89.21,71.0
+Don't Breathe,Horror,7.2,89.21,71.0
+Don't Breathe,Thriller,7.2,89.21,71.0
+Me Before You,Drama,7.4,56.23,51.0
+Me Before You,Romance,7.4,56.23,51.0
+Their Finest,Comedy,7.0,3.18,76.0
+Their Finest,Drama,7.0,3.18,76.0
+Their Finest,Romance,7.0,3.18,76.0
+Sully,Biography,7.5,125.07,74.0
+Sully,Drama,7.5,125.07,74.0
+Batman v Superman: Dawn of Justice,Action,6.7,330.25,44.0
+Batman v Superman: Dawn of Justice,Adventure,6.7,330.25,44.0
+Batman v Superman: Dawn of Justice,Sci-Fi,6.7,330.25,44.0
+The Autopsy of Jane Doe,Horror,6.8,47.985,65.0
+The Autopsy of Jane Doe,Mystery,6.8,47.985,65.0
+The Autopsy of Jane Doe,Thriller,6.8,47.985,65.0
+The Girl on the Train,Crime,6.5,75.31,48.0
+The Girl on the Train,Drama,6.5,75.31,48.0
+The Girl on the Train,Mystery,6.5,75.31,48.0
+Fifty Shades of Grey,Drama,4.1,166.15,46.0
+Fifty Shades of Grey,Romance,4.1,166.15,46.0
+Fifty Shades of Grey,Thriller,4.1,166.15,46.0
+The Prestige,Drama,8.5,53.08,66.0
+The Prestige,Mystery,8.5,53.08,66.0
+The Prestige,Sci-Fi,8.5,53.08,66.0
+Kingsman: The Secret Service,Action,7.7,128.25,58.0
+Kingsman: The Secret Service,Adventure,7.7,128.25,58.0
+Kingsman: The Secret Service,Comedy,7.7,128.25,58.0
+Patriots Day,Drama,7.4,31.86,69.0
+Patriots Day,History,7.4,31.86,69.0
+Patriots Day,Thriller,7.4,31.86,69.0
+Mad Max: Fury Road,Action,8.1,153.63,90.0
+Mad Max: Fury Road,Adventure,8.1,153.63,90.0
+Mad Max: Fury Road,Sci-Fi,8.1,153.63,90.0
+Wakefield,Drama,7.5,0.01,61.0
+Deepwater Horizon,Action,7.2,61.28,68.0
+Deepwater Horizon,Drama,7.2,61.28,68.0
+Deepwater Horizon,Thriller,7.2,61.28,68.0
+The Promise,Drama,5.9,47.985,49.0
+The Promise,History,5.9,47.985,49.0
+Allied,Action,7.1,40.07,60.0
+Allied,Drama,7.1,40.07,60.0
+Allied,Romance,7.1,40.07,60.0
+A Monster Calls,Drama,7.5,3.73,76.0
+A Monster Calls,Fantasy,7.5,3.73,76.0
+Collateral Beauty,Drama,6.8,30.98,23.0
+Collateral Beauty,Romance,6.8,30.98,23.0
+Zootopia,Animation,8.1,341.26,78.0
+Zootopia,Adventure,8.1,341.26,78.0
+Zootopia,Comedy,8.1,341.26,78.0
+Pirates of the Caribbean: At World's End,Action,7.1,309.4,50.0
+Pirates of the Caribbean: At World's End,Adventure,7.1,309.4,50.0
+Pirates of the Caribbean: At World's End,Fantasy,7.1,309.4,50.0
+The Avengers,Action,8.1,623.28,69.0
+The Avengers,Sci-Fi,8.1,623.28,69.0
+Inglourious Basterds,Adventure,8.3,120.52,69.0
+Inglourious Basterds,Drama,8.3,120.52,69.0
+Inglourious Basterds,War,8.3,120.52,69.0
+Pirates of the Caribbean: Dead Man's Chest,Action,7.3,423.03,53.0
+Pirates of the Caribbean: Dead Man's Chest,Adventure,7.3,423.03,53.0
+Pirates of the Caribbean: Dead Man's Chest,Fantasy,7.3,423.03,53.0
+Ghostbusters,Action,5.3,128.34,60.0
+Ghostbusters,Comedy,5.3,128.34,60.0
+Ghostbusters,Fantasy,5.3,128.34,60.0
+Inception,Action,8.8,292.57,74.0
+Inception,Adventure,8.8,292.57,74.0
+Inception,Sci-Fi,8.8,292.57,74.0
+Captain Fantastic,Comedy,7.9,5.88,72.0
+Captain Fantastic,Drama,7.9,5.88,72.0
+The Wolf of Wall Street,Biography,8.2,116.87,75.0
+The Wolf of Wall Street,Comedy,8.2,116.87,75.0
+The Wolf of Wall Street,Crime,8.2,116.87,75.0
+Gone Girl,Crime,8.1,167.74,79.0
+Gone Girl,Drama,8.1,167.74,79.0
+Gone Girl,Mystery,8.1,167.74,79.0
+Furious Seven,Action,7.2,350.03,67.0
+Furious Seven,Crime,7.2,350.03,67.0
+Furious Seven,Thriller,7.2,350.03,67.0
+Jurassic World,Action,7.0,652.18,59.0
+Jurassic World,Adventure,7.0,652.18,59.0
+Jurassic World,Sci-Fi,7.0,652.18,59.0
+Live by Night,Crime,6.4,10.38,49.0
+Live by Night,Drama,6.4,10.38,49.0
+Avatar,Action,7.8,760.51,83.0
+Avatar,Adventure,7.8,760.51,83.0
+Avatar,Fantasy,7.8,760.51,83.0
+The Hateful Eight,Crime,7.8,54.12,68.0
+The Hateful Eight,Drama,7.8,54.12,68.0
+The Hateful Eight,Mystery,7.8,54.12,68.0
+The Accountant,Action,7.4,86.2,51.0
+The Accountant,Crime,7.4,86.2,51.0
+The Accountant,Drama,7.4,86.2,51.0
+Prisoners,Crime,8.1,60.96,74.0
+Prisoners,Drama,8.1,60.96,74.0
+Prisoners,Mystery,8.1,60.96,74.0
+Warcraft,Action,7.0,47.17,32.0
+Warcraft,Adventure,7.0,47.17,32.0
+Warcraft,Fantasy,7.0,47.17,32.0
+The Help,Drama,8.1,169.71,62.0
+War Dogs,Comedy,7.1,43.02,57.0
+War Dogs,Crime,7.1,43.02,57.0
+War Dogs,Drama,7.1,43.02,57.0
+Avengers: Age of Ultron,Action,7.4,458.99,66.0
+Avengers: Age of Ultron,Adventure,7.4,458.99,66.0
+Avengers: Age of Ultron,Sci-Fi,7.4,458.99,66.0
+The Nice Guys,Action,7.4,36.25,70.0
+The Nice Guys,Comedy,7.4,36.25,70.0
+The Nice Guys,Crime,7.4,36.25,70.0
+Kimi no na wa,Animation,8.6,4.68,79.0
+Kimi no na wa,Drama,8.6,4.68,79.0
+Kimi no na wa,Fantasy,8.6,4.68,79.0
+The Void,Horror,5.8,0.15,62.0
+The Void,Mystery,5.8,0.15,62.0
+The Void,Sci-Fi,5.8,0.15,62.0
+Personal Shopper,Drama,6.3,1.29,77.0
+Personal Shopper,Mystery,6.3,1.29,77.0
+Personal Shopper,Thriller,6.3,1.29,77.0
+The Departed,Crime,8.5,132.37,85.0
+The Departed,Drama,8.5,132.37,85.0
+The Departed,Thriller,8.5,132.37,85.0
+Legend,Biography,7.0,1.87,55.0
+Legend,Crime,7.0,1.87,55.0
+Legend,Drama,7.0,1.87,55.0
+Thor,Action,7.0,181.02,57.0
+Thor,Adventure,7.0,181.02,57.0
+Thor,Fantasy,7.0,181.02,57.0
+The Martian,Adventure,8.0,228.43,80.0
+The Martian,Drama,8.0,228.43,80.0
+The Martian,Sci-Fi,8.0,228.43,80.0
+Contratiempo,Crime,7.9,47.985,59.5
+Contratiempo,Mystery,7.9,47.985,59.5
+Contratiempo,Thriller,7.9,47.985,59.5
+The Man from U.N.C.L.E.,Action,7.3,45.43,56.0
+The Man from U.N.C.L.E.,Adventure,7.3,45.43,56.0
+The Man from U.N.C.L.E.,Comedy,7.3,45.43,56.0
+Hell or High Water,Crime,7.7,26.86,88.0
+Hell or High Water,Drama,7.7,26.86,88.0
+Hell or High Water,Thriller,7.7,26.86,88.0
+The Comedian,Comedy,5.4,1.66,40.0
+The Legend of Tarzan,Action,6.3,126.59,44.0
+The Legend of Tarzan,Adventure,6.3,126.59,44.0
+The Legend of Tarzan,Drama,6.3,126.59,44.0
+All We Had,Drama,5.8,47.985,48.0
+Ex Machina,Drama,7.7,25.44,78.0
+Ex Machina,Mystery,7.7,25.44,78.0
+Ex Machina,Sci-Fi,7.7,25.44,78.0
+The Belko Experiment,Action,6.3,10.16,44.0
+The Belko Experiment,Horror,6.3,10.16,44.0
+The Belko Experiment,Thriller,6.3,10.16,44.0
+12 Years a Slave,Biography,8.1,56.67,96.0
+12 Years a Slave,Drama,8.1,56.67,96.0
+12 Years a Slave,History,8.1,56.67,96.0
+The Bad Batch,Romance,6.1,47.985,65.0
+The Bad Batch,Sci-Fi,6.1,47.985,65.0
+300,Action,7.7,210.59,52.0
+300,Fantasy,7.7,210.59,52.0
+300,War,7.7,210.59,52.0
+Harry Potter and the Deathly Hallows: Part 2,Adventure,8.1,380.96,87.0
+Harry Potter and the Deathly Hallows: Part 2,Drama,8.1,380.96,87.0
+Harry Potter and the Deathly Hallows: Part 2,Fantasy,8.1,380.96,87.0
+Office Christmas Party,Comedy,5.8,54.73,42.0
+The Neon Demon,Horror,6.2,1.33,51.0
+The Neon Demon,Thriller,6.2,1.33,51.0
+Dangal,Action,8.8,11.15,59.5
+Dangal,Biography,8.8,11.15,59.5
+Dangal,Drama,8.8,11.15,59.5
+10 Cloverfield Lane,Drama,7.2,71.9,76.0
+10 Cloverfield Lane,Horror,7.2,71.9,76.0
+10 Cloverfield Lane,Mystery,7.2,71.9,76.0
+Finding Dory,Animation,7.4,486.29,77.0
+Finding Dory,Adventure,7.4,486.29,77.0
+Finding Dory,Comedy,7.4,486.29,77.0
+Miss Peregrine's Home for Peculiar Children,Adventure,6.7,87.24,57.0
+Miss Peregrine's Home for Peculiar Children,Drama,6.7,87.24,57.0
+Miss Peregrine's Home for Peculiar Children,Family,6.7,87.24,57.0
+Divergent,Adventure,6.7,150.83,48.0
+Divergent,Mystery,6.7,150.83,48.0
+Divergent,Sci-Fi,6.7,150.83,48.0
+Mike and Dave Need Wedding Dates,Adventure,6.0,46.01,51.0
+Mike and Dave Need Wedding Dates,Comedy,6.0,46.01,51.0
+Mike and Dave Need Wedding Dates,Romance,6.0,46.01,51.0
+Boyka: Undisputed IV,Action,7.4,47.985,59.5
+The Dark Knight Rises,Action,8.5,448.13,78.0
+The Dark Knight Rises,Thriller,8.5,448.13,78.0
+The Jungle Book,Adventure,7.5,364.0,77.0
+The Jungle Book,Drama,7.5,364.0,77.0
+The Jungle Book,Family,7.5,364.0,77.0
+Transformers: Age of Extinction,Action,5.7,245.43,32.0
+Transformers: Age of Extinction,Adventure,5.7,245.43,32.0
+Transformers: Age of Extinction,Sci-Fi,5.7,245.43,32.0
+Nerve,Adventure,6.6,38.56,58.0
+Nerve,Crime,6.6,38.56,58.0
+Nerve,Mystery,6.6,38.56,58.0
+Mamma Mia!,Comedy,6.4,143.7,51.0
+Mamma Mia!,Family,6.4,143.7,51.0
+Mamma Mia!,Musical,6.4,143.7,51.0
+The Revenant,Adventure,8.0,183.64,76.0
+The Revenant,Drama,8.0,183.64,76.0
+The Revenant,Thriller,8.0,183.64,76.0
+Fences,Drama,7.3,57.64,79.0
+Into the Woods,Adventure,6.0,128.0,69.0
+Into the Woods,Comedy,6.0,128.0,69.0
+Into the Woods,Drama,6.0,128.0,69.0
+The Shallows,Drama,6.4,55.12,59.0
+The Shallows,Horror,6.4,55.12,59.0
+The Shallows,Thriller,6.4,55.12,59.0
+Whiplash,Drama,8.5,13.09,88.0
+Whiplash,Music,8.5,13.09,88.0
+Furious 6,Action,7.1,238.67,61.0
+Furious 6,Crime,7.1,238.67,61.0
+Furious 6,Thriller,7.1,238.67,61.0
+The Place Beyond the Pines,Crime,7.3,21.38,68.0
+The Place Beyond the Pines,Drama,7.3,21.38,68.0
+The Place Beyond the Pines,Thriller,7.3,21.38,68.0
+No Country for Old Men,Crime,8.1,74.27,91.0
+No Country for Old Men,Drama,8.1,74.27,91.0
+No Country for Old Men,Thriller,8.1,74.27,91.0
+The Great Gatsby,Drama,7.3,144.81,55.0
+The Great Gatsby,Romance,7.3,144.81,55.0
+Shutter Island,Mystery,8.1,127.97,63.0
+Shutter Island,Thriller,8.1,127.97,63.0
+Brimstone,Mystery,7.1,47.985,44.0
+Brimstone,Thriller,7.1,47.985,44.0
+Brimstone,Western,7.1,47.985,44.0
+Star Trek,Action,8.0,257.7,82.0
+Star Trek,Adventure,8.0,257.7,82.0
+Star Trek,Sci-Fi,8.0,257.7,82.0
+Diary of a Wimpy Kid,Comedy,6.2,64.0,56.0
+Diary of a Wimpy Kid,Family,6.2,64.0,56.0
+The Big Short,Biography,7.8,70.24,81.0
+The Big Short,Comedy,7.8,70.24,81.0
+The Big Short,Drama,7.8,70.24,81.0
+Room,Drama,8.2,14.68,86.0
+Django Unchained,Drama,8.4,162.8,81.0
+Django Unchained,Western,8.4,162.8,81.0
+Ah-ga-ssi,Drama,8.1,2.01,84.0
+Ah-ga-ssi,Mystery,8.1,2.01,84.0
+Ah-ga-ssi,Romance,8.1,2.01,84.0
+The Edge of Seventeen,Comedy,7.4,14.26,77.0
+The Edge of Seventeen,Drama,7.4,14.26,77.0
+Watchmen,Action,7.6,107.5,56.0
+Watchmen,Drama,7.6,107.5,56.0
+Watchmen,Mystery,7.6,107.5,56.0
+Superbad,Comedy,7.6,121.46,76.0
+Inferno,Action,6.2,34.26,42.0
+Inferno,Adventure,6.2,34.26,42.0
+Inferno,Crime,6.2,34.26,42.0
+The BFG,Adventure,6.4,55.47,66.0
+The BFG,Family,6.4,55.47,66.0
+The BFG,Fantasy,6.4,55.47,66.0
+The Hunger Games,Adventure,7.2,408.0,68.0
+The Hunger Games,Sci-Fi,7.2,408.0,68.0
+The Hunger Games,Thriller,7.2,408.0,68.0
+White Girl,Drama,5.8,0.2,65.0
+Sicario,Action,7.6,46.88,82.0
+Sicario,Crime,7.6,46.88,82.0
+Sicario,Drama,7.6,46.88,82.0
+Twin Peaks: The Missing Pieces,Drama,8.1,47.985,59.5
+Twin Peaks: The Missing Pieces,Horror,8.1,47.985,59.5
+Twin Peaks: The Missing Pieces,Mystery,8.1,47.985,59.5
+Aliens vs Predator - Requiem,Action,4.7,41.8,29.0
+Aliens vs Predator - Requiem,Horror,4.7,41.8,29.0
+Aliens vs Predator - Requiem,Sci-Fi,4.7,41.8,29.0
+Pacific Rim,Action,7.0,101.79,64.0
+Pacific Rim,Adventure,7.0,101.79,64.0
+Pacific Rim,Sci-Fi,7.0,101.79,64.0
+"Crazy, Stupid, Love.",Comedy,7.4,84.24,68.0
+"Crazy, Stupid, Love.",Drama,7.4,84.24,68.0
+"Crazy, Stupid, Love.",Romance,7.4,84.24,68.0
+Scott Pilgrim vs. the World,Action,7.5,31.49,69.0
+Scott Pilgrim vs. the World,Comedy,7.5,31.49,69.0
+Scott Pilgrim vs. the World,Fantasy,7.5,31.49,69.0
+Hot Fuzz,Action,7.9,23.62,81.0
+Hot Fuzz,Comedy,7.9,23.62,81.0
+Hot Fuzz,Mystery,7.9,23.62,81.0
+Mine,Thriller,6.0,47.985,40.0
+Mine,War,6.0,47.985,40.0
+Free Fire,Action,7.0,1.8,63.0
+Free Fire,Comedy,7.0,1.8,63.0
+Free Fire,Crime,7.0,1.8,63.0
+X-Men: Days of Future Past,Action,8.0,233.91,74.0
+X-Men: Days of Future Past,Adventure,8.0,233.91,74.0
+X-Men: Days of Future Past,Sci-Fi,8.0,233.91,74.0
+Jack Reacher: Never Go Back,Action,6.1,58.4,47.0
+Jack Reacher: Never Go Back,Adventure,6.1,58.4,47.0
+Jack Reacher: Never Go Back,Crime,6.1,58.4,47.0
+Casino Royale,Action,8.0,167.01,80.0
+Casino Royale,Adventure,8.0,167.01,80.0
+Casino Royale,Thriller,8.0,167.01,80.0
+Twilight,Drama,5.2,191.45,56.0
+Twilight,Fantasy,5.2,191.45,56.0
+Twilight,Romance,5.2,191.45,56.0
+Now You See Me 2,Action,6.5,65.03,46.0
+Now You See Me 2,Adventure,6.5,65.03,46.0
+Now You See Me 2,Comedy,6.5,65.03,46.0
+Woman in Gold,Biography,7.3,33.31,51.0
+Woman in Gold,Drama,7.3,33.31,51.0
+Woman in Gold,History,7.3,33.31,51.0
+13 Hours,Action,7.3,52.82,48.0
+13 Hours,Drama,7.3,52.82,48.0
+13 Hours,History,7.3,52.82,48.0
+Spectre,Action,6.8,200.07,60.0
+Spectre,Adventure,6.8,200.07,60.0
+Spectre,Thriller,6.8,200.07,60.0
+Nightcrawler,Crime,7.9,32.28,76.0
+Nightcrawler,Drama,7.9,32.28,76.0
+Nightcrawler,Thriller,7.9,32.28,76.0
+Kubo and the Two Strings,Animation,7.9,48.02,84.0
+Kubo and the Two Strings,Adventure,7.9,48.02,84.0
+Kubo and the Two Strings,Family,7.9,48.02,84.0
+Beyond the Gates,Adventure,5.2,47.985,59.0
+Beyond the Gates,Horror,5.2,47.985,59.0
+Her,Drama,8.0,25.56,90.0
+Her,Romance,8.0,25.56,90.0
+Her,Sci-Fi,8.0,25.56,90.0
+Frozen,Animation,7.5,400.74,74.0
+Frozen,Adventure,7.5,400.74,74.0
+Frozen,Comedy,7.5,400.74,74.0
+Tomorrowland,Action,6.5,93.42,60.0
+Tomorrowland,Adventure,6.5,93.42,60.0
+Tomorrowland,Family,6.5,93.42,60.0
+Dawn of the Planet of the Apes,Action,7.6,208.54,79.0
+Dawn of the Planet of the Apes,Adventure,7.6,208.54,79.0
+Dawn of the Planet of the Apes,Drama,7.6,208.54,79.0
+Tropic Thunder,Action,7.0,110.42,71.0
+Tropic Thunder,Comedy,7.0,110.42,71.0
+The Conjuring 2,Horror,7.4,102.46,65.0
+The Conjuring 2,Mystery,7.4,102.46,65.0
+The Conjuring 2,Thriller,7.4,102.46,65.0
+Ant-Man,Action,7.3,180.19,64.0
+Ant-Man,Adventure,7.3,180.19,64.0
+Ant-Man,Comedy,7.3,180.19,64.0
+Bridget Jones's Baby,Comedy,6.7,24.09,59.0
+Bridget Jones's Baby,Romance,6.7,24.09,59.0
+The VVitch: A New-England Folktale,Horror,6.8,25.14,83.0
+The VVitch: A New-England Folktale,Mystery,6.8,25.14,83.0
+Cinderella,Drama,7.0,201.15,67.0
+Cinderella,Family,7.0,201.15,67.0
+Cinderella,Fantasy,7.0,201.15,67.0
+Realive,Sci-Fi,5.9,47.985,59.5
+Forushande,Drama,8.0,3.4,85.0
+Forushande,Thriller,8.0,3.4,85.0
+Love,Drama,6.0,47.985,51.0
+Love,Romance,6.0,47.985,51.0
+Billy Lynn's Long Halftime Walk,Drama,6.3,1.72,53.0
+Billy Lynn's Long Halftime Walk,War,6.3,1.72,53.0
+Crimson Peak,Drama,6.6,31.06,66.0
+Crimson Peak,Fantasy,6.6,31.06,66.0
+Crimson Peak,Horror,6.6,31.06,66.0
+Drive,Crime,7.8,35.05,78.0
+Drive,Drama,7.8,35.05,78.0
+Trainwreck,Comedy,6.3,110.01,75.0
+Trainwreck,Drama,6.3,110.01,75.0
+Trainwreck,Romance,6.3,110.01,75.0
+The Light Between Oceans,Drama,7.2,12.53,60.0
+The Light Between Oceans,Romance,7.2,12.53,60.0
+Below Her Mouth,Drama,5.6,47.985,42.0
+Spotlight,Crime,8.1,44.99,93.0
+Spotlight,Drama,8.1,44.99,93.0
+Spotlight,History,8.1,44.99,93.0
+Morgan,Horror,5.8,3.91,48.0
+Morgan,Sci-Fi,5.8,3.91,48.0
+Morgan,Thriller,5.8,3.91,48.0
+Warrior,Action,8.2,13.65,71.0
+Warrior,Drama,8.2,13.65,71.0
+Warrior,Sport,8.2,13.65,71.0
+Captain America: The First Avenger,Action,6.9,176.64,66.0
+Captain America: The First Avenger,Adventure,6.9,176.64,66.0
+Captain America: The First Avenger,Sci-Fi,6.9,176.64,66.0
+Hacker,Crime,6.3,47.985,59.5
+Hacker,Drama,6.3,47.985,59.5
+Hacker,Thriller,6.3,47.985,59.5
+Into the Wild,Adventure,8.1,18.35,73.0
+Into the Wild,Biography,8.1,18.35,73.0
+Into the Wild,Drama,8.1,18.35,73.0
+The Imitation Game,Biography,8.1,91.12,73.0
+The Imitation Game,Drama,8.1,91.12,73.0
+The Imitation Game,Thriller,8.1,91.12,73.0
+Central Intelligence,Action,6.3,127.38,52.0
+Central Intelligence,Comedy,6.3,127.38,52.0
+Central Intelligence,Crime,6.3,127.38,52.0
+Edge of Tomorrow,Action,7.9,100.19,71.0
+Edge of Tomorrow,Adventure,7.9,100.19,71.0
+Edge of Tomorrow,Sci-Fi,7.9,100.19,71.0
+A Cure for Wellness,Drama,6.5,8.1,47.0
+A Cure for Wellness,Fantasy,6.5,8.1,47.0
+A Cure for Wellness,Horror,6.5,8.1,47.0
+Snowden,Biography,7.3,21.48,58.0
+Snowden,Drama,7.3,21.48,58.0
+Snowden,Thriller,7.3,21.48,58.0
+Iron Man,Action,7.9,318.3,79.0
+Iron Man,Adventure,7.9,318.3,79.0
+Iron Man,Sci-Fi,7.9,318.3,79.0
+Allegiant,Action,5.7,66.0,33.0
+Allegiant,Adventure,5.7,66.0,33.0
+Allegiant,Mystery,5.7,66.0,33.0
+X: First Class,Action,7.8,146.41,65.0
+X: First Class,Adventure,7.8,146.41,65.0
+X: First Class,Sci-Fi,7.8,146.41,65.0
+Raw (II),Drama,7.5,0.51,81.0
+Raw (II),Horror,7.5,0.51,81.0
+Paterson,Comedy,7.5,2.14,90.0
+Paterson,Drama,7.5,2.14,90.0
+Paterson,Romance,7.5,2.14,90.0
+Bridesmaids,Comedy,6.8,169.08,75.0
+Bridesmaids,Romance,6.8,169.08,75.0
+The Girl with All the Gifts,Drama,6.7,47.985,67.0
+The Girl with All the Gifts,Horror,6.7,47.985,67.0
+The Girl with All the Gifts,Thriller,6.7,47.985,67.0
+San Andreas,Action,6.1,155.18,43.0
+San Andreas,Adventure,6.1,155.18,43.0
+San Andreas,Drama,6.1,155.18,43.0
+Spring Breakers,Drama,5.3,14.12,63.0
+Transformers,Action,7.1,318.76,61.0
+Transformers,Adventure,7.1,318.76,61.0
+Transformers,Sci-Fi,7.1,318.76,61.0
+Old Boy,Action,5.8,47.985,49.0
+Old Boy,Drama,5.8,47.985,49.0
+Old Boy,Mystery,5.8,47.985,49.0
+Thor: The Dark World,Action,7.0,206.36,54.0
+Thor: The Dark World,Adventure,7.0,206.36,54.0
+Thor: The Dark World,Fantasy,7.0,206.36,54.0
+Gods of Egypt,Action,5.5,31.14,25.0
+Gods of Egypt,Adventure,5.5,31.14,25.0
+Gods of Egypt,Fantasy,5.5,31.14,25.0
+Captain America: The Winter Soldier,Action,7.8,259.75,70.0
+Captain America: The Winter Soldier,Adventure,7.8,259.75,70.0
+Captain America: The Winter Soldier,Sci-Fi,7.8,259.75,70.0
+Monster Trucks,Action,5.7,33.04,41.0
+Monster Trucks,Adventure,5.7,33.04,41.0
+Monster Trucks,Comedy,5.7,33.04,41.0
+A Dark Song,Drama,6.1,47.985,67.0
+A Dark Song,Horror,6.1,47.985,67.0
+Kick-Ass,Action,7.7,48.04,66.0
+Kick-Ass,Comedy,7.7,48.04,66.0
+Hardcore Henry,Action,6.7,9.24,51.0
+Hardcore Henry,Adventure,6.7,9.24,51.0
+Hardcore Henry,Sci-Fi,6.7,9.24,51.0
+Cars,Animation,7.1,244.05,73.0
+Cars,Adventure,7.1,244.05,73.0
+Cars,Comedy,7.1,244.05,73.0
+It Follows,Horror,6.9,14.67,83.0
+It Follows,Mystery,6.9,14.67,83.0
+The Girl with the Dragon Tattoo,Crime,7.8,102.52,71.0
+The Girl with the Dragon Tattoo,Drama,7.8,102.52,71.0
+The Girl with the Dragon Tattoo,Mystery,7.8,102.52,71.0
+We're the Millers,Comedy,7.0,150.37,44.0
+We're the Millers,Crime,7.0,150.37,44.0
+American Honey,Drama,7.0,0.66,79.0
+The Lobster,Comedy,7.1,8.7,82.0
+The Lobster,Drama,7.1,8.7,82.0
+The Lobster,Romance,7.1,8.7,82.0
+Predators,Action,6.4,52.0,51.0
+Predators,Adventure,6.4,52.0,51.0
+Predators,Sci-Fi,6.4,52.0,51.0
+Maleficent,Action,7.0,241.41,56.0
+Maleficent,Adventure,7.0,241.41,56.0
+Maleficent,Family,7.0,241.41,56.0
+Rupture,Horror,4.8,47.985,35.0
+Rupture,Sci-Fi,4.8,47.985,35.0
+Rupture,Thriller,4.8,47.985,35.0
+Pan's Labyrinth,Drama,8.2,37.62,98.0
+Pan's Labyrinth,Fantasy,8.2,37.62,98.0
+Pan's Labyrinth,War,8.2,37.62,98.0
+A Kind of Murder,Crime,5.2,0.0,50.0
+A Kind of Murder,Drama,5.2,0.0,50.0
+A Kind of Murder,Thriller,5.2,0.0,50.0
+Apocalypto,Action,7.8,50.86,68.0
+Apocalypto,Adventure,7.8,50.86,68.0
+Apocalypto,Drama,7.8,50.86,68.0
+Mission: Impossible - Rogue Nation,Action,7.4,195.0,75.0
+Mission: Impossible - Rogue Nation,Adventure,7.4,195.0,75.0
+Mission: Impossible - Rogue Nation,Thriller,7.4,195.0,75.0
+The Huntsman: Winter's War,Action,6.1,47.95,35.0
+The Huntsman: Winter's War,Adventure,6.1,47.95,35.0
+The Huntsman: Winter's War,Drama,6.1,47.95,35.0
+The Perks of Being a Wallflower,Drama,8.0,17.74,67.0
+The Perks of Being a Wallflower,Romance,8.0,17.74,67.0
+Jackie,Biography,6.8,13.96,81.0
+Jackie,Drama,6.8,13.96,81.0
+Jackie,History,6.8,13.96,81.0
+The Disappointments Room,Drama,3.9,2.41,31.0
+The Disappointments Room,Horror,3.9,2.41,31.0
+The Disappointments Room,Thriller,3.9,2.41,31.0
+The Grand Budapest Hotel,Adventure,8.1,59.07,88.0
+The Grand Budapest Hotel,Comedy,8.1,59.07,88.0
+The Grand Budapest Hotel,Drama,8.1,59.07,88.0
+The Host,Action,5.9,26.62,35.0
+The Host,Adventure,5.9,26.62,35.0
+The Host,Romance,5.9,26.62,35.0
+Fury,Action,7.6,85.71,64.0
+Fury,Drama,7.6,85.71,64.0
+Fury,War,7.6,85.71,64.0
+Inside Out,Animation,8.2,356.45,94.0
+Inside Out,Adventure,8.2,356.45,94.0
+Inside Out,Comedy,8.2,356.45,94.0
+Rock Dog,Animation,5.8,9.4,48.0
+Rock Dog,Adventure,5.8,9.4,48.0
+Rock Dog,Comedy,5.8,9.4,48.0
+Terminator Genisys,Action,6.5,89.73,38.0
+Terminator Genisys,Adventure,6.5,89.73,38.0
+Terminator Genisys,Sci-Fi,6.5,89.73,38.0
+Percy Jackson & the Olympians: The Lightning Thief,Adventure,5.9,88.76,47.0
+Percy Jackson & the Olympians: The Lightning Thief,Family,5.9,88.76,47.0
+Percy Jackson & the Olympians: The Lightning Thief,Fantasy,5.9,88.76,47.0
+Les Misérables,Drama,7.6,148.78,63.0
+Les Misérables,Musical,7.6,148.78,63.0
+Les Misérables,Romance,7.6,148.78,63.0
+Children of Men,Drama,7.9,35.29,84.0
+Children of Men,Sci-Fi,7.9,35.29,84.0
+Children of Men,Thriller,7.9,35.29,84.0
+20th Century Women,Comedy,7.4,5.66,83.0
+20th Century Women,Drama,7.4,5.66,83.0
+Spy,Action,7.1,110.82,75.0
+Spy,Comedy,7.1,110.82,75.0
+Spy,Crime,7.1,110.82,75.0
+The Intouchables,Biography,8.6,13.18,57.0
+The Intouchables,Comedy,8.6,13.18,57.0
+The Intouchables,Drama,8.6,13.18,57.0
+Bonjour Anne,Comedy,4.9,0.32,50.0
+Bonjour Anne,Drama,4.9,0.32,50.0
+Bonjour Anne,Romance,4.9,0.32,50.0
+Kynodontas,Drama,7.3,0.11,73.0
+Kynodontas,Thriller,7.3,0.11,73.0
+Straight Outta Compton,Biography,7.9,161.03,72.0
+Straight Outta Compton,Drama,7.9,161.03,72.0
+Straight Outta Compton,History,7.9,161.03,72.0
+The Amazing Spider-Man 2,Action,6.7,202.85,53.0
+The Amazing Spider-Man 2,Adventure,6.7,202.85,53.0
+The Amazing Spider-Man 2,Sci-Fi,6.7,202.85,53.0
+The Conjuring,Horror,7.5,137.39,68.0
+The Conjuring,Mystery,7.5,137.39,68.0
+The Conjuring,Thriller,7.5,137.39,68.0
+The Hangover,Comedy,7.8,277.31,73.0
+Battleship,Action,5.8,65.17,41.0
+Battleship,Adventure,5.8,65.17,41.0
+Battleship,Sci-Fi,5.8,65.17,41.0
+Rise of the Planet of the Apes,Action,7.6,176.74,68.0
+Rise of the Planet of the Apes,Drama,7.6,176.74,68.0
+Rise of the Planet of the Apes,Sci-Fi,7.6,176.74,68.0
+Lights Out,Horror,6.4,67.24,58.0
+Norman: The Moderate Rise and Tragic Fall of a New York Fixer,Drama,7.1,2.27,76.0
+Norman: The Moderate Rise and Tragic Fall of a New York Fixer,Thriller,7.1,2.27,76.0
+Birdman or (The Unexpected Virtue of Ignorance),Comedy,7.8,42.34,88.0
+Birdman or (The Unexpected Virtue of Ignorance),Drama,7.8,42.34,88.0
+Birdman or (The Unexpected Virtue of Ignorance),Romance,7.8,42.34,88.0
+Black Swan,Drama,8.0,106.95,79.0
+Black Swan,Thriller,8.0,106.95,79.0
+Dear White People,Comedy,6.2,4.4,79.0
+Dear White People,Drama,6.2,4.4,79.0
+Nymphomaniac: Vol. I,Drama,7.0,0.79,64.0
+Teenage Mutant Ninja Turtles: Out of the Shadows,Action,6.0,0.54,40.0
+Teenage Mutant Ninja Turtles: Out of the Shadows,Adventure,6.0,0.54,40.0
+Teenage Mutant Ninja Turtles: Out of the Shadows,Comedy,6.0,0.54,40.0
+Knock Knock,Drama,4.9,0.03,53.0
+Knock Knock,Horror,4.9,0.03,53.0
+Knock Knock,Thriller,4.9,0.03,53.0
+Dirty Grandpa,Comedy,6.0,35.54,18.0
+Cloud Atlas,Drama,7.5,27.1,55.0
+Cloud Atlas,Sci-Fi,7.5,27.1,55.0
+X-Men Origins: Wolverine,Action,6.7,179.88,40.0
+X-Men Origins: Wolverine,Adventure,6.7,179.88,40.0
+X-Men Origins: Wolverine,Sci-Fi,6.7,179.88,40.0
+Satanic,Horror,3.7,47.985,59.5
+Skyfall,Action,7.8,304.36,81.0
+Skyfall,Adventure,7.8,304.36,81.0
+Skyfall,Thriller,7.8,304.36,81.0
+The Hobbit: An Unexpected Journey,Adventure,7.9,303.0,58.0
+The Hobbit: An Unexpected Journey,Fantasy,7.9,303.0,58.0
+21 Jump Street,Action,7.2,138.45,69.0
+21 Jump Street,Comedy,7.2,138.45,69.0
+21 Jump Street,Crime,7.2,138.45,69.0
+Sing Street,Comedy,8.0,3.23,79.0
+Sing Street,Drama,8.0,3.23,79.0
+Sing Street,Music,8.0,3.23,79.0
+Ballerina,Animation,6.8,47.985,59.5
+Ballerina,Adventure,6.8,47.985,59.5
+Ballerina,Comedy,6.8,47.985,59.5
+Oblivion,Action,7.0,89.02,54.0
+Oblivion,Adventure,7.0,89.02,54.0
+Oblivion,Mystery,7.0,89.02,54.0
+22 Jump Street,Action,7.1,191.62,71.0
+22 Jump Street,Comedy,7.1,191.62,71.0
+22 Jump Street,Crime,7.1,191.62,71.0
+Zodiac,Crime,7.7,33.05,78.0
+Zodiac,Drama,7.7,33.05,78.0
+Zodiac,History,7.7,33.05,78.0
+Everybody Wants Some!!,Comedy,7.0,3.37,83.0
+Iron Man Three,Action,7.2,408.99,62.0
+Iron Man Three,Adventure,7.2,408.99,62.0
+Iron Man Three,Sci-Fi,7.2,408.99,62.0
+Now You See Me,Crime,7.3,117.7,50.0
+Now You See Me,Mystery,7.3,117.7,50.0
+Now You See Me,Thriller,7.3,117.7,50.0
+Sherlock Holmes,Action,7.6,209.02,57.0
+Sherlock Holmes,Adventure,7.6,209.02,57.0
+Sherlock Holmes,Crime,7.6,209.02,57.0
+Death Proof,Thriller,7.1,47.985,59.5
+The Danish Girl,Biography,7.0,12.71,66.0
+The Danish Girl,Drama,7.0,12.71,66.0
+The Danish Girl,Romance,7.0,12.71,66.0
+Hercules,Action,6.0,72.66,47.0
+Hercules,Adventure,6.0,72.66,47.0
+Sucker Punch,Action,6.1,36.38,33.0
+Sucker Punch,Fantasy,6.1,36.38,33.0
+Keeping Up with the Joneses,Action,5.8,14.9,34.0
+Keeping Up with the Joneses,Comedy,5.8,14.9,34.0
+Jupiter Ascending,Action,5.3,47.38,40.0
+Jupiter Ascending,Adventure,5.3,47.38,40.0
+Jupiter Ascending,Sci-Fi,5.3,47.38,40.0
+Masterminds,Action,5.8,17.36,47.0
+Masterminds,Comedy,5.8,17.36,47.0
+Masterminds,Crime,5.8,17.36,47.0
+Iris,Thriller,6.1,47.985,59.5
+Busanhaeng,Action,7.5,2.13,72.0
+Busanhaeng,Drama,7.5,2.13,72.0
+Busanhaeng,Horror,7.5,2.13,72.0
+Pitch Perfect,Comedy,7.2,65.0,66.0
+Pitch Perfect,Music,7.2,65.0,66.0
+Pitch Perfect,Romance,7.2,65.0,66.0
+Neighbors 2: Sorority Rising,Comedy,5.7,55.29,58.0
+The Exception,Drama,7.7,47.985,59.5
+Man of Steel,Action,7.1,291.02,55.0
+Man of Steel,Adventure,7.1,291.02,55.0
+Man of Steel,Fantasy,7.1,291.02,55.0
+The Choice,Drama,6.6,18.71,26.0
+The Choice,Romance,6.6,18.71,26.0
+Ice Age: Collision Course,Animation,5.7,64.06,34.0
+Ice Age: Collision Course,Adventure,5.7,64.06,34.0
+Ice Age: Collision Course,Comedy,5.7,64.06,34.0
+The Devil Wears Prada,Comedy,6.8,124.73,62.0
+The Devil Wears Prada,Drama,6.8,124.73,62.0
+The Infiltrator,Biography,7.1,15.43,66.0
+The Infiltrator,Crime,7.1,15.43,66.0
+The Infiltrator,Drama,7.1,15.43,66.0
+There Will Be Blood,Drama,8.1,40.22,92.0
+There Will Be Blood,History,8.1,40.22,92.0
+The Equalizer,Action,7.2,101.53,57.0
+The Equalizer,Crime,7.2,101.53,57.0
+The Equalizer,Thriller,7.2,101.53,57.0
+Lone Survivor,Action,7.5,125.07,60.0
+Lone Survivor,Biography,7.5,125.07,60.0
+Lone Survivor,Drama,7.5,125.07,60.0
+The Cabin in the Woods,Horror,7.0,42.04,72.0
+The House Bunny,Comedy,5.5,48.24,55.0
+The House Bunny,Romance,5.5,48.24,55.0
+She's Out of My League,Comedy,6.4,31.58,46.0
+She's Out of My League,Romance,6.4,31.58,46.0
+Inherent Vice,Comedy,6.7,8.09,81.0
+Inherent Vice,Crime,6.7,8.09,81.0
+Inherent Vice,Drama,6.7,8.09,81.0
+Alice Through the Looking Glass,Adventure,6.2,77.04,34.0
+Alice Through the Looking Glass,Family,6.2,77.04,34.0
+Alice Through the Looking Glass,Fantasy,6.2,77.04,34.0
+Vincent N Roxxy,Crime,5.5,47.985,59.5
+Vincent N Roxxy,Drama,5.5,47.985,59.5
+Vincent N Roxxy,Thriller,5.5,47.985,59.5
+The Fast and the Furious: Tokyo Drift,Action,6.0,62.49,45.0
+The Fast and the Furious: Tokyo Drift,Crime,6.0,62.49,45.0
+The Fast and the Furious: Tokyo Drift,Thriller,6.0,62.49,45.0
+How to Be Single,Comedy,6.1,46.81,51.0
+How to Be Single,Romance,6.1,46.81,51.0
+The Blind Side,Biography,7.7,255.95,53.0
+The Blind Side,Drama,7.7,255.95,53.0
+The Blind Side,Sport,7.7,255.95,53.0
+La vie d'Adèle,Drama,7.8,2.2,88.0
+La vie d'Adèle,Romance,7.8,2.2,88.0
+The Babadook,Drama,6.8,0.92,86.0
+The Babadook,Horror,6.8,0.92,86.0
+The Hobbit: The Battle of the Five Armies,Adventure,7.4,255.11,59.0
+The Hobbit: The Battle of the Five Armies,Fantasy,7.4,255.11,59.0
+Harry Potter and the Order of the Phoenix,Adventure,7.5,292.0,71.0
+Harry Potter and the Order of the Phoenix,Family,7.5,292.0,71.0
+Harry Potter and the Order of the Phoenix,Fantasy,7.5,292.0,71.0
+Snowpiercer,Action,7.0,4.56,84.0
+Snowpiercer,Drama,7.0,4.56,84.0
+Snowpiercer,Sci-Fi,7.0,4.56,84.0
+The 5th Wave,Action,5.2,34.91,33.0
+The 5th Wave,Adventure,5.2,34.91,33.0
+The 5th Wave,Sci-Fi,5.2,34.91,33.0
+The Stakelander,Action,5.3,47.985,59.5
+The Stakelander,Horror,5.3,47.985,59.5
+The Visit,Comedy,6.2,65.07,55.0
+The Visit,Horror,6.2,65.07,55.0
+The Visit,Thriller,6.2,65.07,55.0
+Fast Five,Action,7.3,209.81,66.0
+Fast Five,Crime,7.3,209.81,66.0
+Fast Five,Thriller,7.3,209.81,66.0
+Step Up,Crime,6.5,65.27,48.0
+Step Up,Drama,6.5,65.27,48.0
+Step Up,Music,6.5,65.27,48.0
+Lovesong,Drama,6.4,0.01,74.0
+RocknRolla,Action,7.3,5.69,53.0
+RocknRolla,Crime,7.3,5.69,53.0
+RocknRolla,Thriller,7.3,5.69,53.0
+In Time,Action,6.7,37.55,53.0
+In Time,Sci-Fi,6.7,37.55,53.0
+In Time,Thriller,6.7,37.55,53.0
+The Social Network,Biography,7.7,96.92,95.0
+The Social Network,Drama,7.7,96.92,95.0
+The Last Witch Hunter,Action,6.0,27.36,34.0
+The Last Witch Hunter,Adventure,6.0,27.36,34.0
+The Last Witch Hunter,Fantasy,6.0,27.36,34.0
+Victor Frankenstein,Drama,6.0,5.77,36.0
+Victor Frankenstein,Horror,6.0,5.77,36.0
+Victor Frankenstein,Sci-Fi,6.0,5.77,36.0
+A Street Cat Named Bob,Biography,7.4,0.04,54.0
+A Street Cat Named Bob,Comedy,7.4,0.04,54.0
+A Street Cat Named Bob,Drama,7.4,0.04,54.0
+Green Room,Crime,7.0,3.22,79.0
+Green Room,Horror,7.0,3.22,79.0
+Green Room,Thriller,7.0,3.22,79.0
+Blackhat,Crime,5.4,7.1,51.0
+Blackhat,Drama,5.4,7.1,51.0
+Blackhat,Mystery,5.4,7.1,51.0
+Storks,Animation,6.9,72.66,56.0
+Storks,Adventure,6.9,72.66,56.0
+Storks,Comedy,6.9,72.66,56.0
+American Sniper,Action,7.3,350.12,72.0
+American Sniper,Biography,7.3,350.12,72.0
+American Sniper,Drama,7.3,350.12,72.0
+Dallas Buyers Club,Biography,8.0,27.3,84.0
+Dallas Buyers Club,Drama,8.0,27.3,84.0
+Lincoln,Biography,7.4,182.2,86.0
+Lincoln,Drama,7.4,182.2,86.0
+Lincoln,History,7.4,182.2,86.0
+Rush,Action,8.1,26.9,75.0
+Rush,Biography,8.1,26.9,75.0
+Rush,Drama,8.1,26.9,75.0
+Before I Wake,Drama,6.1,47.985,59.5
+Before I Wake,Fantasy,6.1,47.985,59.5
+Before I Wake,Horror,6.1,47.985,59.5
+Silver Linings Playbook,Comedy,7.8,132.09,81.0
+Silver Linings Playbook,Drama,7.8,132.09,81.0
+Silver Linings Playbook,Romance,7.8,132.09,81.0
+Tracktown,Drama,5.9,47.985,64.0
+Tracktown,Sport,5.9,47.985,64.0
+The Fault in Our Stars,Drama,7.8,124.87,69.0
+The Fault in Our Stars,Romance,7.8,124.87,69.0
+Blended,Comedy,6.5,46.28,31.0
+Blended,Romance,6.5,46.28,31.0
+Fast & Furious,Action,6.6,155.02,46.0
+Fast & Furious,Crime,6.6,155.02,46.0
+Fast & Furious,Thriller,6.6,155.02,46.0
+Looper,Action,7.4,66.47,84.0
+Looper,Crime,7.4,66.47,84.0
+Looper,Drama,7.4,66.47,84.0
+White House Down,Action,6.4,73.1,52.0
+White House Down,Drama,6.4,73.1,52.0
+White House Down,Thriller,6.4,73.1,52.0
+Pete's Dragon,Adventure,6.8,76.2,71.0
+Pete's Dragon,Family,6.8,76.2,71.0
+Pete's Dragon,Fantasy,6.8,76.2,71.0
+Spider-Man 3,Action,6.2,336.53,59.0
+Spider-Man 3,Adventure,6.2,336.53,59.0
+The Three Musketeers,Action,5.8,20.32,35.0
+The Three Musketeers,Adventure,5.8,20.32,35.0
+The Three Musketeers,Romance,5.8,20.32,35.0
+Stardust,Adventure,7.7,38.35,66.0
+Stardust,Family,7.7,38.35,66.0
+Stardust,Fantasy,7.7,38.35,66.0
+American Hustle,Crime,7.3,150.12,90.0
+American Hustle,Drama,7.3,150.12,90.0
+Jennifer's Body,Comedy,5.1,16.2,47.0
+Jennifer's Body,Horror,5.1,16.2,47.0
+Midnight in Paris,Comedy,7.7,56.82,81.0
+Midnight in Paris,Fantasy,7.7,56.82,81.0
+Midnight in Paris,Romance,7.7,56.82,81.0
+Lady Macbeth,Drama,7.3,47.985,83.0
+Joy,Drama,6.6,56.44,56.0
+The Dressmaker,Comedy,7.1,2.02,47.0
+The Dressmaker,Drama,7.1,2.02,47.0
+Café Society,Comedy,6.7,11.08,64.0
+Café Society,Drama,6.7,11.08,64.0
+Café Society,Romance,6.7,11.08,64.0
+Insurgent,Adventure,6.3,130.0,42.0
+Insurgent,Sci-Fi,6.3,130.0,42.0
+Insurgent,Thriller,6.3,130.0,42.0
+Seventh Son,Action,5.5,17.18,30.0
+Seventh Son,Adventure,5.5,17.18,30.0
+Seventh Son,Fantasy,5.5,17.18,30.0
+Demain tout commence,Comedy,7.4,47.985,59.5
+Demain tout commence,Drama,7.4,47.985,59.5
+The Theory of Everything,Biography,7.7,35.89,72.0
+The Theory of Everything,Drama,7.7,35.89,72.0
+The Theory of Everything,Romance,7.7,35.89,72.0
+This Is the End,Comedy,6.6,101.47,67.0
+This Is the End,Fantasy,6.6,101.47,67.0
+About Time,Comedy,7.8,15.29,55.0
+About Time,Drama,7.8,15.29,55.0
+About Time,Fantasy,7.8,15.29,55.0
+Step Brothers,Comedy,6.9,100.47,51.0
+Clown,Horror,5.7,0.05,42.0
+Clown,Thriller,5.7,0.05,42.0
+Star Trek Into Darkness,Action,7.8,228.76,72.0
+Star Trek Into Darkness,Adventure,7.8,228.76,72.0
+Star Trek Into Darkness,Sci-Fi,7.8,228.76,72.0
+Zombieland,Adventure,7.7,75.59,73.0
+Zombieland,Comedy,7.7,75.59,73.0
+Zombieland,Horror,7.7,75.59,73.0
+"Hail, Caesar!",Comedy,6.3,30.0,72.0
+"Hail, Caesar!",Mystery,6.3,30.0,72.0
+Slumdog Millionaire,Drama,8.0,141.32,86.0
+The Twilight Saga: Breaking Dawn - Part 2,Adventure,5.5,292.3,52.0
+The Twilight Saga: Breaking Dawn - Part 2,Drama,5.5,292.3,52.0
+The Twilight Saga: Breaking Dawn - Part 2,Fantasy,5.5,292.3,52.0
+American Wrestler: The Wizard,Drama,6.9,47.985,59.5
+American Wrestler: The Wizard,Sport,6.9,47.985,59.5
+The Amazing Spider-Man,Action,7.0,262.03,66.0
+The Amazing Spider-Man,Adventure,7.0,262.03,66.0
+Ben-Hur,Action,5.7,26.38,38.0
+Ben-Hur,Adventure,5.7,26.38,38.0
+Ben-Hur,Drama,5.7,26.38,38.0
+Sleight,Action,6.0,3.85,62.0
+Sleight,Drama,6.0,3.85,62.0
+Sleight,Sci-Fi,6.0,3.85,62.0
+The Maze Runner,Action,6.8,102.41,57.0
+The Maze Runner,Mystery,6.8,102.41,57.0
+The Maze Runner,Sci-Fi,6.8,102.41,57.0
+Criminal,Action,6.3,14.27,36.0
+Criminal,Crime,6.3,14.27,36.0
+Criminal,Drama,6.3,14.27,36.0
+Wanted,Action,6.7,134.57,64.0
+Wanted,Crime,6.7,134.57,64.0
+Wanted,Fantasy,6.7,134.57,64.0
+Florence Foster Jenkins,Biography,6.9,27.37,71.0
+Florence Foster Jenkins,Comedy,6.9,27.37,71.0
+Florence Foster Jenkins,Drama,6.9,27.37,71.0
+Collide,Action,5.7,2.2,33.0
+Collide,Crime,5.7,2.2,33.0
+Collide,Thriller,5.7,2.2,33.0
+Black Mass,Biography,6.9,62.56,68.0
+Black Mass,Crime,6.9,62.56,68.0
+Black Mass,Drama,6.9,62.56,68.0
+Creed,Drama,7.6,109.71,82.0
+Creed,Sport,7.6,109.71,82.0
+Swiss Army Man,Adventure,7.1,4.21,64.0
+Swiss Army Man,Comedy,7.1,4.21,64.0
+Swiss Army Man,Drama,7.1,4.21,64.0
+The Expendables 3,Action,6.1,39.29,35.0
+The Expendables 3,Adventure,6.1,39.29,35.0
+The Expendables 3,Thriller,6.1,39.29,35.0
+What We Do in the Shadows,Comedy,7.6,3.33,76.0
+What We Do in the Shadows,Fantasy,7.6,3.33,76.0
+What We Do in the Shadows,Horror,7.6,3.33,76.0
+Southpaw,Drama,7.4,52.42,57.0
+Southpaw,Sport,7.4,52.42,57.0
+Hush,Horror,6.6,47.985,67.0
+Hush,Thriller,6.6,47.985,67.0
+Bridge of Spies,Drama,7.6,72.31,81.0
+Bridge of Spies,History,7.6,72.31,81.0
+Bridge of Spies,Thriller,7.6,72.31,81.0
+The Lego Movie,Animation,7.8,257.76,83.0
+The Lego Movie,Action,7.8,257.76,83.0
+The Lego Movie,Adventure,7.8,257.76,83.0
+Everest,Action,7.1,43.25,64.0
+Everest,Adventure,7.1,43.25,64.0
+Everest,Drama,7.1,43.25,64.0
+Pixels,Action,5.6,78.75,27.0
+Pixels,Comedy,5.6,78.75,27.0
+Pixels,Family,5.6,78.75,27.0
+Robin Hood,Action,6.7,105.22,53.0
+Robin Hood,Adventure,6.7,105.22,53.0
+Robin Hood,Drama,6.7,105.22,53.0
+The Wolverine,Action,6.7,132.55,60.0
+The Wolverine,Adventure,6.7,132.55,60.0
+The Wolverine,Sci-Fi,6.7,132.55,60.0
+John Carter,Action,6.6,73.06,51.0
+John Carter,Adventure,6.6,73.06,51.0
+John Carter,Sci-Fi,6.6,73.06,51.0
+Keanu,Action,6.3,20.57,63.0
+Keanu,Comedy,6.3,20.57,63.0
+The Gunman,Action,5.8,10.64,39.0
+The Gunman,Crime,5.8,10.64,39.0
+The Gunman,Drama,5.8,10.64,39.0
+Steve Jobs,Biography,7.2,17.75,82.0
+Steve Jobs,Drama,7.2,17.75,82.0
+Whisky Galore,Comedy,5.0,47.985,43.0
+Whisky Galore,Romance,5.0,47.985,43.0
+Grown Ups 2,Comedy,5.4,133.67,19.0
+The Age of Adaline,Drama,7.2,42.48,51.0
+The Age of Adaline,Fantasy,7.2,42.48,51.0
+The Age of Adaline,Romance,7.2,42.48,51.0
+The Incredible Hulk,Action,6.8,134.52,61.0
+The Incredible Hulk,Adventure,6.8,134.52,61.0
+The Incredible Hulk,Sci-Fi,6.8,134.52,61.0
+Couples Retreat,Comedy,5.5,109.18,23.0
+Absolutely Anything,Comedy,6.0,47.985,31.0
+Absolutely Anything,Sci-Fi,6.0,47.985,31.0
+Magic Mike,Comedy,6.1,113.71,72.0
+Magic Mike,Drama,6.1,113.71,72.0
+Minions,Animation,6.4,336.03,56.0
+Minions,Action,6.4,336.03,56.0
+Minions,Adventure,6.4,336.03,56.0
+The Black Room,Horror,3.9,47.985,71.0
+Bronson,Action,7.1,0.1,59.5
+Bronson,Biography,7.1,0.1,59.5
+Bronson,Crime,7.1,0.1,59.5
+Despicable Me,Animation,7.7,251.5,72.0
+Despicable Me,Adventure,7.7,251.5,72.0
+Despicable Me,Comedy,7.7,251.5,72.0
+The Best of Me,Drama,6.7,26.76,29.0
+The Best of Me,Romance,6.7,26.76,29.0
+The Invitation,Drama,6.7,0.23,74.0
+The Invitation,Mystery,6.7,0.23,74.0
+The Invitation,Thriller,6.7,0.23,74.0
+Zero Dark Thirty,Drama,7.4,95.72,95.0
+Zero Dark Thirty,History,7.4,95.72,95.0
+Zero Dark Thirty,Thriller,7.4,95.72,95.0
+Tangled,Animation,7.8,200.81,71.0
+Tangled,Adventure,7.8,200.81,71.0
+Tangled,Comedy,7.8,200.81,71.0
+The Hunger Games: Mockingjay - Part 2,Action,6.6,281.67,65.0
+The Hunger Games: Mockingjay - Part 2,Adventure,6.6,281.67,65.0
+The Hunger Games: Mockingjay - Part 2,Sci-Fi,6.6,281.67,65.0
+Vacation,Adventure,6.1,58.88,34.0
+Vacation,Comedy,6.1,58.88,34.0
+Taken,Action,7.8,145.0,50.0
+Taken,Thriller,7.8,145.0,50.0
+Pitch Perfect 2,Comedy,6.5,183.44,63.0
+Pitch Perfect 2,Music,6.5,183.44,63.0
+Monsters University,Animation,7.3,268.49,65.0
+Monsters University,Adventure,7.3,268.49,65.0
+Monsters University,Comedy,7.3,268.49,65.0
+Elle,Crime,7.2,47.985,89.0
+Elle,Drama,7.2,47.985,89.0
+Elle,Thriller,7.2,47.985,89.0
+Mechanic: Resurrection,Action,5.6,21.2,38.0
+Mechanic: Resurrection,Adventure,5.6,21.2,38.0
+Mechanic: Resurrection,Crime,5.6,21.2,38.0
+Tusk,Comedy,5.4,1.82,55.0
+Tusk,Drama,5.4,1.82,55.0
+Tusk,Horror,5.4,1.82,55.0
+The Headhunter's Calling,Drama,6.9,47.985,85.0
+Atonement,Drama,7.8,50.92,59.5
+Atonement,Mystery,7.8,50.92,59.5
+Atonement,Romance,7.8,50.92,59.5
+Harry Potter and the Deathly Hallows: Part 1,Adventure,7.7,294.98,65.0
+Harry Potter and the Deathly Hallows: Part 1,Family,7.7,294.98,65.0
+Harry Potter and the Deathly Hallows: Part 1,Fantasy,7.7,294.98,65.0
+Shame,Drama,7.2,4.0,72.0
+Hanna,Action,6.8,40.25,65.0
+Hanna,Drama,6.8,40.25,65.0
+Hanna,Thriller,6.8,40.25,65.0
+The Babysitters,Drama,5.7,0.04,35.0
+Pride and Prejudice and Zombies,Action,5.8,10.91,45.0
+Pride and Prejudice and Zombies,Horror,5.8,10.91,45.0
+Pride and Prejudice and Zombies,Romance,5.8,10.91,45.0
+300: Rise of an Empire,Action,6.2,106.37,48.0
+300: Rise of an Empire,Drama,6.2,106.37,48.0
+300: Rise of an Empire,Fantasy,6.2,106.37,48.0
+London Has Fallen,Action,5.9,62.4,28.0
+London Has Fallen,Crime,5.9,62.4,28.0
+London Has Fallen,Drama,5.9,62.4,28.0
+The Curious Case of Benjamin Button,Drama,7.8,127.49,70.0
+The Curious Case of Benjamin Button,Fantasy,7.8,127.49,70.0
+The Curious Case of Benjamin Button,Romance,7.8,127.49,70.0
+Sin City: A Dame to Kill For,Action,6.5,13.75,46.0
+Sin City: A Dame to Kill For,Crime,6.5,13.75,46.0
+Sin City: A Dame to Kill For,Thriller,6.5,13.75,46.0
+The Bourne Ultimatum,Action,8.1,227.14,85.0
+The Bourne Ultimatum,Mystery,8.1,227.14,85.0
+The Bourne Ultimatum,Thriller,8.1,227.14,85.0
+Srpski film,Horror,5.2,47.985,55.0
+Srpski film,Mystery,5.2,47.985,55.0
+Srpski film,Thriller,5.2,47.985,55.0
+The Purge: Election Year,Action,6.0,79.0,59.5
+The Purge: Election Year,Horror,6.0,79.0,59.5
+The Purge: Election Year,Sci-Fi,6.0,79.0,59.5
+3 Idiots,Comedy,8.4,6.52,67.0
+3 Idiots,Drama,8.4,6.52,67.0
+Zoolander 2,Comedy,4.7,28.84,34.0
+World War Z,Action,7.0,202.35,63.0
+World War Z,Adventure,7.0,202.35,63.0
+World War Z,Horror,7.0,202.35,63.0
+Mission: Impossible - Ghost Protocol,Action,7.4,209.36,73.0
+Mission: Impossible - Ghost Protocol,Adventure,7.4,209.36,73.0
+Mission: Impossible - Ghost Protocol,Thriller,7.4,209.36,73.0
+Let Me Make You a Martyr,Action,6.4,47.985,56.0
+Let Me Make You a Martyr,Crime,6.4,47.985,56.0
+Let Me Make You a Martyr,Drama,6.4,47.985,56.0
+Filth,Comedy,7.1,0.03,59.5
+Filth,Crime,7.1,0.03,59.5
+Filth,Drama,7.1,0.03,59.5
+The Longest Ride,Drama,7.1,37.43,33.0
+The Longest Ride,Romance,7.1,37.43,33.0
+The imposible,Drama,7.6,19.0,73.0
+The imposible,Thriller,7.6,19.0,73.0
+Kick-Ass 2,Action,6.6,28.75,41.0
+Kick-Ass 2,Comedy,6.6,28.75,41.0
+Kick-Ass 2,Crime,6.6,28.75,41.0
+Folk Hero & Funny Guy,Comedy,5.6,47.985,63.0
+Oz the Great and Powerful,Adventure,6.3,234.9,44.0
+Oz the Great and Powerful,Family,6.3,234.9,44.0
+Oz the Great and Powerful,Fantasy,6.3,234.9,44.0
+Brooklyn,Drama,7.5,38.32,87.0
+Brooklyn,Romance,7.5,38.32,87.0
+Coraline,Animation,7.7,75.28,80.0
+Coraline,Family,7.7,75.28,80.0
+Coraline,Fantasy,7.7,75.28,80.0
+Blue Valentine,Drama,7.4,9.7,81.0
+Blue Valentine,Romance,7.4,9.7,81.0
+The Thinning,Thriller,6.0,47.985,31.0
+Silent Hill,Adventure,6.6,46.98,59.5
+Silent Hill,Horror,6.6,46.98,59.5
+Silent Hill,Mystery,6.6,46.98,59.5
+Dredd,Action,7.1,13.4,59.0
+Dredd,Sci-Fi,7.1,13.4,59.0
+Hunt for the Wilderpeople,Adventure,7.9,5.2,81.0
+Hunt for the Wilderpeople,Comedy,7.9,5.2,81.0
+Hunt for the Wilderpeople,Drama,7.9,5.2,81.0
+Big Hero 6,Animation,7.8,222.49,74.0
+Big Hero 6,Action,7.8,222.49,74.0
+Big Hero 6,Adventure,7.8,222.49,74.0
+Carrie,Drama,5.9,35.27,53.0
+Carrie,Horror,5.9,35.27,53.0
+Iron Man 2,Action,7.0,312.06,57.0
+Iron Man 2,Adventure,7.0,312.06,57.0
+Iron Man 2,Sci-Fi,7.0,312.06,57.0
+Demolition,Comedy,7.0,1.82,49.0
+Demolition,Drama,7.0,1.82,49.0
+Pandorum,Action,6.8,10.33,28.0
+Pandorum,Horror,6.8,10.33,28.0
+Pandorum,Mystery,6.8,10.33,28.0
+Olympus Has Fallen,Action,6.5,98.9,41.0
+Olympus Has Fallen,Thriller,6.5,98.9,41.0
+I Am Number Four,Action,6.1,55.09,36.0
+I Am Number Four,Adventure,6.1,55.09,36.0
+I Am Number Four,Sci-Fi,6.1,55.09,36.0
+Jagten,Drama,8.3,0.61,76.0
+The Proposal,Comedy,6.7,163.95,48.0
+The Proposal,Drama,6.7,163.95,48.0
+The Proposal,Romance,6.7,163.95,48.0
+Get Hard,Comedy,6.0,90.35,34.0
+Get Hard,Crime,6.0,90.35,34.0
+Just Go with It,Comedy,6.4,103.03,33.0
+Just Go with It,Romance,6.4,103.03,33.0
+Revolutionary Road,Drama,7.3,22.88,69.0
+Revolutionary Road,Romance,7.3,22.88,69.0
+The Town,Crime,7.6,92.17,74.0
+The Town,Drama,7.6,92.17,74.0
+The Town,Thriller,7.6,92.17,74.0
+The Boy,Horror,6.0,35.79,42.0
+The Boy,Mystery,6.0,35.79,42.0
+The Boy,Thriller,6.0,35.79,42.0
+Denial,Biography,6.6,4.07,63.0
+Denial,Drama,6.6,4.07,63.0
+Predestination,Drama,7.5,47.985,69.0
+Predestination,Mystery,7.5,47.985,69.0
+Predestination,Sci-Fi,7.5,47.985,69.0
+Goosebumps,Adventure,6.3,80.02,60.0
+Goosebumps,Comedy,6.3,80.02,60.0
+Goosebumps,Family,6.3,80.02,60.0
+Sherlock Holmes: A Game of Shadows,Action,7.5,186.83,48.0
+Sherlock Holmes: A Game of Shadows,Adventure,7.5,186.83,48.0
+Sherlock Holmes: A Game of Shadows,Crime,7.5,186.83,48.0
+Salt,Action,6.4,118.31,65.0
+Salt,Crime,6.4,118.31,65.0
+Salt,Mystery,6.4,118.31,65.0
+Enemy,Mystery,6.9,1.01,61.0
+Enemy,Thriller,6.9,1.01,61.0
+District 9,Action,8.0,115.65,81.0
+District 9,Sci-Fi,8.0,115.65,81.0
+District 9,Thriller,8.0,115.65,81.0
+The Other Guys,Action,6.7,119.22,64.0
+The Other Guys,Comedy,6.7,119.22,64.0
+The Other Guys,Crime,6.7,119.22,64.0
+American Gangster,Biography,7.8,130.13,76.0
+American Gangster,Crime,7.8,130.13,76.0
+American Gangster,Drama,7.8,130.13,76.0
+Marie Antoinette,Biography,6.4,15.96,65.0
+Marie Antoinette,Drama,6.4,15.96,65.0
+Marie Antoinette,History,6.4,15.96,65.0
+2012,Action,5.8,166.11,49.0
+2012,Adventure,5.8,166.11,49.0
+2012,Sci-Fi,5.8,166.11,49.0
+Harry Potter and the Half-Blood Prince,Adventure,7.5,301.96,78.0
+Harry Potter and the Half-Blood Prince,Family,7.5,301.96,78.0
+Harry Potter and the Half-Blood Prince,Fantasy,7.5,301.96,78.0
+Argo,Biography,7.7,136.02,86.0
+Argo,Drama,7.7,136.02,86.0
+Argo,History,7.7,136.02,86.0
+Eddie the Eagle,Biography,7.4,15.79,54.0
+Eddie the Eagle,Comedy,7.4,15.79,54.0
+Eddie the Eagle,Drama,7.4,15.79,54.0
+The Lives of Others,Drama,8.5,11.28,89.0
+The Lives of Others,Thriller,8.5,11.28,89.0
+Pet,Horror,5.7,47.985,48.0
+Pet,Thriller,5.7,47.985,48.0
+Paint It Black,Drama,8.3,47.985,71.0
+Macbeth,Drama,6.7,47.985,71.0
+Macbeth,War,6.7,47.985,71.0
+Forgetting Sarah Marshall,Comedy,7.2,62.88,67.0
+Forgetting Sarah Marshall,Drama,7.2,62.88,67.0
+Forgetting Sarah Marshall,Romance,7.2,62.88,67.0
+The Giver,Drama,6.5,45.09,47.0
+The Giver,Romance,6.5,45.09,47.0
+The Giver,Sci-Fi,6.5,45.09,47.0
+Triple 9,Action,6.3,12.63,52.0
+Triple 9,Crime,6.3,12.63,52.0
+Triple 9,Drama,6.3,12.63,52.0
+Perfetti sconosciuti,Comedy,7.7,47.985,43.0
+Perfetti sconosciuti,Drama,7.7,47.985,43.0
+Angry Birds,Animation,6.3,107.51,59.5
+Angry Birds,Action,6.3,107.51,59.5
+Angry Birds,Adventure,6.3,107.51,59.5
+Moonrise Kingdom,Adventure,7.8,45.51,84.0
+Moonrise Kingdom,Comedy,7.8,45.51,84.0
+Moonrise Kingdom,Drama,7.8,45.51,84.0
+Hairspray,Comedy,6.7,118.82,81.0
+Hairspray,Drama,6.7,118.82,81.0
+Hairspray,Family,6.7,118.82,81.0
+Safe Haven,Drama,6.7,71.35,34.0
+Safe Haven,Romance,6.7,71.35,34.0
+Safe Haven,Thriller,6.7,71.35,34.0
+Focus,Comedy,6.6,53.85,56.0
+Focus,Crime,6.6,53.85,56.0
+Focus,Drama,6.6,53.85,56.0
+Ratatouille,Animation,8.0,206.44,96.0
+Ratatouille,Comedy,8.0,206.44,96.0
+Ratatouille,Family,8.0,206.44,96.0
+Stake Land,Drama,6.5,0.02,66.0
+Stake Land,Horror,6.5,0.02,66.0
+Stake Land,Sci-Fi,6.5,0.02,66.0
+The Book of Eli,Action,6.9,94.82,53.0
+The Book of Eli,Adventure,6.9,94.82,53.0
+The Book of Eli,Drama,6.9,94.82,53.0
+Cloverfield,Action,7.0,80.03,64.0
+Cloverfield,Horror,7.0,80.03,64.0
+Cloverfield,Sci-Fi,7.0,80.03,64.0
+Point Break,Action,5.3,28.77,34.0
+Point Break,Crime,5.3,28.77,34.0
+Point Break,Sport,5.3,28.77,34.0
+Under the Skin,Drama,6.3,2.61,78.0
+Under the Skin,Horror,6.3,2.61,78.0
+Under the Skin,Sci-Fi,6.3,2.61,78.0
+I Am Legend,Drama,7.2,256.39,65.0
+I Am Legend,Horror,7.2,256.39,65.0
+I Am Legend,Sci-Fi,7.2,256.39,65.0
+Men in Black 3,Action,6.8,179.02,58.0
+Men in Black 3,Adventure,6.8,179.02,58.0
+Men in Black 3,Comedy,6.8,179.02,58.0
+Super 8,Mystery,7.1,126.98,72.0
+Super 8,Sci-Fi,7.1,126.98,72.0
+Super 8,Thriller,7.1,126.98,72.0
+Law Abiding Citizen,Crime,7.4,73.34,34.0
+Law Abiding Citizen,Drama,7.4,73.34,34.0
+Law Abiding Citizen,Thriller,7.4,73.34,34.0
+Up,Animation,8.3,292.98,88.0
+Up,Adventure,8.3,292.98,88.0
+Up,Comedy,8.3,292.98,88.0
+Maze Runner: The Scorch Trials,Action,6.3,81.69,43.0
+Maze Runner: The Scorch Trials,Sci-Fi,6.3,81.69,43.0
+Maze Runner: The Scorch Trials,Thriller,6.3,81.69,43.0
+Carol,Drama,7.2,0.25,95.0
+Carol,Romance,7.2,0.25,95.0
+Imperium,Crime,6.5,47.985,68.0
+Imperium,Drama,6.5,47.985,68.0
+Imperium,Thriller,6.5,47.985,68.0
+Youth,Comedy,7.3,2.7,64.0
+Youth,Drama,7.3,2.7,64.0
+Youth,Music,7.3,2.7,64.0
+Mr. Nobody,Drama,7.9,47.985,63.0
+Mr. Nobody,Fantasy,7.9,47.985,63.0
+Mr. Nobody,Romance,7.9,47.985,63.0
+City of Tiny Lights,Crime,5.7,47.985,54.0
+City of Tiny Lights,Drama,5.7,47.985,54.0
+City of Tiny Lights,Thriller,5.7,47.985,54.0
+Savages,Crime,6.5,47.31,59.0
+Savages,Drama,6.5,47.31,59.0
+Savages,Thriller,6.5,47.31,59.0
+(500) Days of Summer,Comedy,7.7,32.39,76.0
+(500) Days of Summer,Drama,7.7,32.39,76.0
+(500) Days of Summer,Romance,7.7,32.39,76.0
+Movie 43,Comedy,4.3,8.83,18.0
+Movie 43,Romance,4.3,8.83,18.0
+Gravity,Drama,7.8,274.08,96.0
+Gravity,Sci-Fi,7.8,274.08,96.0
+Gravity,Thriller,7.8,274.08,96.0
+The Boy in the Striped Pyjamas,Drama,7.8,9.03,55.0
+The Boy in the Striped Pyjamas,War,7.8,9.03,55.0
+Shooter,Action,7.2,46.98,53.0
+Shooter,Crime,7.2,46.98,53.0
+Shooter,Drama,7.2,46.98,53.0
+The Happening,Sci-Fi,5.0,64.51,34.0
+The Happening,Thriller,5.0,64.51,34.0
+Bone Tomahawk,Adventure,7.1,66.01,72.0
+Bone Tomahawk,Drama,7.1,66.01,72.0
+Bone Tomahawk,Horror,7.1,66.01,72.0
+Magic Mike XXL,Comedy,5.7,47.985,60.0
+Magic Mike XXL,Drama,5.7,47.985,60.0
+Magic Mike XXL,Music,5.7,47.985,60.0
+Easy A,Comedy,7.1,58.4,72.0
+Easy A,Drama,7.1,58.4,72.0
+Easy A,Romance,7.1,58.4,72.0
+Exodus: Gods and Kings,Action,6.0,65.01,52.0
+Exodus: Gods and Kings,Adventure,6.0,65.01,52.0
+Exodus: Gods and Kings,Drama,6.0,65.01,52.0
+Chappie,Action,6.9,31.57,41.0
+Chappie,Crime,6.9,31.57,41.0
+Chappie,Drama,6.9,31.57,41.0
+The Hobbit: The Desolation of Smaug,Adventure,7.9,258.36,66.0
+The Hobbit: The Desolation of Smaug,Fantasy,7.9,258.36,66.0
+Half of a Yellow Sun,Drama,6.2,0.05,51.0
+Half of a Yellow Sun,Romance,6.2,0.05,51.0
+Anthropoid,Biography,7.2,2.96,59.0
+Anthropoid,History,7.2,2.96,59.0
+Anthropoid,Thriller,7.2,2.96,59.0
+The Counselor,Crime,5.3,16.97,48.0
+The Counselor,Drama,5.3,16.97,48.0
+The Counselor,Thriller,5.3,16.97,48.0
+Viking,Action,4.7,23.05,57.0
+Viking,Drama,4.7,23.05,57.0
+Viking,History,4.7,23.05,57.0
+Whiskey Tango Foxtrot,Biography,6.6,47.985,59.5
+Whiskey Tango Foxtrot,Comedy,6.6,47.985,59.5
+Whiskey Tango Foxtrot,Drama,6.6,47.985,59.5
+Trust,Crime,7.0,0.06,60.0
+Trust,Drama,7.0,0.06,60.0
+Trust,Thriller,7.0,0.06,60.0
+Birth of the Dragon,Action,3.9,93.05,61.0
+Birth of the Dragon,Biography,3.9,93.05,61.0
+Birth of the Dragon,Drama,3.9,93.05,61.0
+Elysium,Action,6.6,47.985,59.5
+Elysium,Drama,6.6,47.985,59.5
+Elysium,Sci-Fi,6.6,47.985,59.5
+The Green Inferno,Adventure,5.4,7.19,38.0
+The Green Inferno,Horror,5.4,7.19,38.0
+Godzilla,Action,6.4,200.66,62.0
+Godzilla,Adventure,6.4,200.66,62.0
+Godzilla,Sci-Fi,6.4,200.66,62.0
+The Bourne Legacy,Action,6.7,113.17,61.0
+The Bourne Legacy,Adventure,6.7,113.17,61.0
+The Bourne Legacy,Mystery,6.7,113.17,61.0
+A Good Year,Comedy,6.9,7.46,47.0
+A Good Year,Drama,6.9,7.46,47.0
+A Good Year,Romance,6.9,7.46,47.0
+Friend Request,Horror,5.4,64.03,59.0
+Friend Request,Thriller,5.4,64.03,59.0
+Deja Vu,Action,7.0,47.985,59.5
+Deja Vu,Sci-Fi,7.0,47.985,59.5
+Deja Vu,Thriller,7.0,47.985,59.5
+Lucy,Action,6.4,126.55,61.0
+Lucy,Sci-Fi,6.4,126.55,61.0
+Lucy,Thriller,6.4,126.55,61.0
+A Quiet Passion,Biography,7.2,1.08,77.0
+A Quiet Passion,Drama,7.2,1.08,77.0
+Need for Speed,Action,6.5,43.57,39.0
+Need for Speed,Crime,6.5,43.57,39.0
+Need for Speed,Drama,6.5,43.57,39.0
+Jack Reacher,Action,7.0,58.68,50.0
+Jack Reacher,Crime,7.0,58.68,50.0
+Jack Reacher,Mystery,7.0,58.68,50.0
+The Do-Over,Action,5.7,0.54,22.0
+The Do-Over,Adventure,5.7,0.54,22.0
+The Do-Over,Comedy,5.7,0.54,22.0
+True Crimes,Crime,7.3,47.985,43.0
+True Crimes,Drama,7.3,47.985,43.0
+True Crimes,Thriller,7.3,47.985,43.0
+American Pastoral,Crime,6.1,47.985,59.5
+American Pastoral,Drama,6.1,47.985,59.5
+The Ghost Writer,Mystery,7.2,15.52,77.0
+The Ghost Writer,Thriller,7.2,15.52,77.0
+Limitless,Mystery,7.4,79.24,59.0
+Limitless,Sci-Fi,7.4,79.24,59.0
+Limitless,Thriller,7.4,79.24,59.0
+Spectral,Action,6.3,47.985,39.0
+Spectral,Mystery,6.3,47.985,39.0
+Spectral,Sci-Fi,6.3,47.985,39.0
+P.S. I Love You,Drama,7.1,53.68,59.5
+P.S. I Love You,Romance,7.1,53.68,59.5
+Zipper,Drama,5.7,47.985,39.0
+Zipper,Thriller,5.7,47.985,39.0
+Midnight Special,Drama,6.7,3.71,76.0
+Midnight Special,Mystery,6.7,3.71,76.0
+Midnight Special,Sci-Fi,6.7,3.71,76.0
+Don't Think Twice,Comedy,6.8,4.42,83.0
+Don't Think Twice,Drama,6.8,4.42,83.0
+Alice in Wonderland,Adventure,6.5,334.19,53.0
+Alice in Wonderland,Family,6.5,334.19,53.0
+Alice in Wonderland,Fantasy,6.5,334.19,53.0
+Chuck,Biography,6.8,0.11,68.0
+Chuck,Drama,6.8,0.11,68.0
+Chuck,Sport,6.8,0.11,68.0
+"I, Daniel Blake",Drama,7.9,47.985,77.0
+The Break-Up,Comedy,5.8,118.68,45.0
+The Break-Up,Drama,5.8,118.68,45.0
+The Break-Up,Romance,5.8,118.68,45.0
+Loving,Biography,7.1,7.7,79.0
+Loving,Drama,7.1,7.7,79.0
+Loving,Romance,7.1,7.7,79.0
+Fantastic Four,Action,4.3,56.11,27.0
+Fantastic Four,Adventure,4.3,56.11,27.0
+Fantastic Four,Sci-Fi,4.3,56.11,27.0
+The Survivalist,Drama,6.3,47.985,80.0
+The Survivalist,Sci-Fi,6.3,47.985,80.0
+The Survivalist,Thriller,6.3,47.985,80.0
+Colonia,Drama,7.1,47.985,33.0
+Colonia,Romance,7.1,47.985,33.0
+Colonia,Thriller,7.1,47.985,33.0
+The Boy Next Door,Mystery,4.6,35.39,30.0
+The Boy Next Door,Thriller,4.6,35.39,30.0
+The Gift,Mystery,7.1,43.77,77.0
+The Gift,Thriller,7.1,43.77,77.0
+Dracula Untold,Action,6.3,55.94,40.0
+Dracula Untold,Drama,6.3,55.94,40.0
+Dracula Untold,Fantasy,6.3,55.94,40.0
+In the Heart of the Sea,Action,6.9,24.99,47.0
+In the Heart of the Sea,Adventure,6.9,24.99,47.0
+In the Heart of the Sea,Biography,6.9,24.99,47.0
+Idiocracy,Adventure,6.6,0.44,66.0
+Idiocracy,Comedy,6.6,0.44,66.0
+Idiocracy,Sci-Fi,6.6,0.44,66.0
+The Expendables,Action,6.5,102.98,45.0
+The Expendables,Adventure,6.5,102.98,45.0
+The Expendables,Thriller,6.5,102.98,45.0
+Evil Dead,Fantasy,6.5,54.24,57.0
+Evil Dead,Horror,6.5,54.24,57.0
+Sinister,Horror,6.8,48.06,53.0
+Sinister,Mystery,6.8,48.06,53.0
+Wreck-It Ralph,Animation,7.8,189.41,72.0
+Wreck-It Ralph,Adventure,7.8,189.41,72.0
+Wreck-It Ralph,Comedy,7.8,189.41,72.0
+Snow White and the Huntsman,Action,6.1,155.11,57.0
+Snow White and the Huntsman,Adventure,6.1,155.11,57.0
+Snow White and the Huntsman,Drama,6.1,155.11,57.0
+Pan,Adventure,5.8,34.96,36.0
+Pan,Family,5.8,34.96,36.0
+Pan,Fantasy,5.8,34.96,36.0
+Transformers: Dark of the Moon,Action,6.3,352.36,42.0
+Transformers: Dark of the Moon,Adventure,6.3,352.36,42.0
+Transformers: Dark of the Moon,Sci-Fi,6.3,352.36,42.0
+Juno,Comedy,7.5,143.49,81.0
+Juno,Drama,7.5,143.49,81.0
+A Hologram for the King,Comedy,6.1,4.2,58.0
+A Hologram for the King,Drama,6.1,4.2,58.0
+Money Monster,Crime,6.5,41.01,55.0
+Money Monster,Drama,6.5,41.01,55.0
+Money Monster,Thriller,6.5,41.01,55.0
+The Other Woman,Comedy,6.0,83.91,39.0
+The Other Woman,Romance,6.0,83.91,39.0
+Enchanted,Animation,7.1,127.71,75.0
+Enchanted,Comedy,7.1,127.71,75.0
+Enchanted,Family,7.1,127.71,75.0
+The Intern,Comedy,7.1,75.27,51.0
+The Intern,Drama,7.1,75.27,51.0
+Little Miss Sunshine,Comedy,7.8,59.89,80.0
+Little Miss Sunshine,Drama,7.8,59.89,80.0
+Bleed for This,Biography,6.8,4.85,62.0
+Bleed for This,Drama,6.8,4.85,62.0
+Bleed for This,Sport,6.8,4.85,62.0
+Clash of the Titans,Action,5.8,163.19,39.0
+Clash of the Titans,Adventure,5.8,163.19,39.0
+Clash of the Titans,Fantasy,5.8,163.19,39.0
+The Finest Hours,Action,6.8,27.55,58.0
+The Finest Hours,Drama,6.8,27.55,58.0
+The Finest Hours,History,6.8,27.55,58.0
+Tron,Action,6.8,172.05,49.0
+Tron,Adventure,6.8,172.05,49.0
+Tron,Sci-Fi,6.8,172.05,49.0
+The Hunger Games: Catching Fire,Action,7.6,424.65,76.0
+The Hunger Games: Catching Fire,Adventure,7.6,424.65,76.0
+The Hunger Games: Catching Fire,Mystery,7.6,424.65,76.0
+All Good Things,Crime,6.3,0.58,57.0
+All Good Things,Drama,6.3,0.58,57.0
+All Good Things,Mystery,6.3,0.58,57.0
+Kickboxer: Vengeance,Action,4.9,131.56,37.0
+The Last Airbender,Action,4.2,47.985,20.0
+The Last Airbender,Adventure,4.2,47.985,20.0
+The Last Airbender,Family,4.2,47.985,20.0
+Sex Tape,Comedy,5.1,38.54,36.0
+Sex Tape,Romance,5.1,38.54,36.0
+What to Expect When You're Expecting,Comedy,5.7,41.1,41.0
+What to Expect When You're Expecting,Drama,5.7,41.1,41.0
+What to Expect When You're Expecting,Romance,5.7,41.1,41.0
+Moneyball,Biography,7.6,75.61,87.0
+Moneyball,Drama,7.6,75.61,87.0
+Moneyball,Sport,7.6,75.61,87.0
+Ghost Rider,Action,5.2,115.8,35.0
+Ghost Rider,Fantasy,5.2,115.8,35.0
+Ghost Rider,Thriller,5.2,115.8,35.0
+Unbroken,Biography,7.2,115.6,59.0
+Unbroken,Drama,7.2,115.6,59.0
+Unbroken,Sport,7.2,115.6,59.0
+Immortals,Action,6.0,83.5,46.0
+Immortals,Drama,6.0,83.5,46.0
+Immortals,Fantasy,6.0,83.5,46.0
+Sunshine,Adventure,7.3,3.68,64.0
+Sunshine,Sci-Fi,7.3,3.68,64.0
+Sunshine,Thriller,7.3,3.68,64.0
+Brave,Animation,7.2,237.28,69.0
+Brave,Adventure,7.2,237.28,69.0
+Brave,Comedy,7.2,237.28,69.0
+Män som hatar kvinnor,Drama,7.8,10.1,76.0
+Män som hatar kvinnor,Mystery,7.8,10.1,76.0
+Män som hatar kvinnor,Thriller,7.8,10.1,76.0
+Adoration,Drama,6.2,0.32,37.0
+Adoration,Romance,6.2,0.32,37.0
+The Drop,Crime,7.1,10.72,69.0
+The Drop,Drama,7.1,10.72,69.0
+The Drop,Mystery,7.1,10.72,69.0
+She's the Man,Comedy,6.4,2.34,45.0
+She's the Man,Romance,6.4,2.34,45.0
+She's the Man,Sport,6.4,2.34,45.0
+Daddy's Home,Comedy,6.1,150.32,42.0
+Daddy's Home,Family,6.1,150.32,42.0
+Let Me In,Drama,7.2,12.13,79.0
+Let Me In,Horror,7.2,12.13,79.0
+Let Me In,Mystery,7.2,12.13,79.0
+Never Back Down,Action,6.6,24.85,39.0
+Never Back Down,Drama,6.6,24.85,39.0
+Never Back Down,Sport,6.6,24.85,39.0
+Grimsby,Action,6.2,6.86,44.0
+Grimsby,Adventure,6.2,6.86,44.0
+Grimsby,Comedy,6.2,6.86,44.0
+Moon,Drama,7.9,5.01,67.0
+Moon,Mystery,7.9,5.01,67.0
+Moon,Sci-Fi,7.9,5.01,67.0
+Megamind,Animation,7.3,148.34,63.0
+Megamind,Action,7.3,148.34,63.0
+Megamind,Comedy,7.3,148.34,63.0
+Gangster Squad,Action,6.7,46.0,40.0
+Gangster Squad,Crime,6.7,46.0,40.0
+Gangster Squad,Drama,6.7,46.0,40.0
+Blood Father,Action,6.4,93.95,66.0
+Blood Father,Crime,6.4,93.95,66.0
+Blood Father,Drama,6.4,93.95,66.0
+He's Just Not That Into You,Comedy,6.4,47.985,47.0
+He's Just Not That Into You,Drama,6.4,47.985,47.0
+He's Just Not That Into You,Romance,6.4,47.985,47.0
+Kung Fu Panda 3,Animation,7.2,143.52,66.0
+Kung Fu Panda 3,Action,7.2,143.52,66.0
+Kung Fu Panda 3,Adventure,7.2,143.52,66.0
+The Rise of the Krays,Crime,5.1,6.53,90.0
+The Rise of the Krays,Drama,5.1,6.53,90.0
+Handsome Devil,Drama,7.4,47.985,59.5
+Winter's Bone,Drama,7.2,47.985,59.5
+Horrible Bosses,Comedy,6.9,117.53,57.0
+Horrible Bosses,Crime,6.9,117.53,57.0
+Mommy,Drama,8.1,3.49,74.0
+Hellboy II: The Golden Army,Action,7.0,75.75,78.0
+Hellboy II: The Golden Army,Adventure,7.0,75.75,78.0
+Hellboy II: The Golden Army,Fantasy,7.0,75.75,78.0
+Beautiful Creatures,Drama,6.2,19.45,52.0
+Beautiful Creatures,Fantasy,6.2,19.45,52.0
+Beautiful Creatures,Romance,6.2,19.45,52.0
+Toni Erdmann,Comedy,7.6,1.48,93.0
+Toni Erdmann,Drama,7.6,1.48,93.0
+The Lovely Bones,Drama,6.7,43.98,42.0
+The Lovely Bones,Fantasy,6.7,43.98,42.0
+The Lovely Bones,Thriller,6.7,43.98,42.0
+The Assassination of Jesse James by the Coward Robert Ford,Biography,7.5,3.9,68.0
+The Assassination of Jesse James by the Coward Robert Ford,Crime,7.5,3.9,68.0
+The Assassination of Jesse James by the Coward Robert Ford,Drama,7.5,3.9,68.0
+Don Jon,Comedy,6.6,24.48,66.0
+Don Jon,Drama,6.6,24.48,66.0
+Don Jon,Romance,6.6,24.48,66.0
+Bastille Day,Action,6.3,0.04,48.0
+Bastille Day,Crime,6.3,0.04,48.0
+Bastille Day,Drama,6.3,0.04,48.0
+2307: Winter's Dream,Sci-Fi,4.0,20.76,53.0
+Free State of Jones,Action,6.9,47.985,59.5
+Free State of Jones,Biography,6.9,47.985,59.5
+Free State of Jones,Drama,6.9,47.985,59.5
+Mr. Right,Action,6.3,0.03,52.0
+Mr. Right,Comedy,6.3,0.03,52.0
+Mr. Right,Romance,6.3,0.03,52.0
+The Secret Life of Walter Mitty,Adventure,7.3,58.23,54.0
+The Secret Life of Walter Mitty,Comedy,7.3,58.23,54.0
+The Secret Life of Walter Mitty,Drama,7.3,58.23,54.0
+Dope,Comedy,7.3,17.47,72.0
+Dope,Crime,7.3,17.47,72.0
+Dope,Drama,7.3,17.47,72.0
+Underworld Awakening,Action,6.4,62.32,39.0
+Underworld Awakening,Fantasy,6.4,62.32,39.0
+Underworld Awakening,Horror,6.4,62.32,39.0
+Antichrist,Drama,6.6,0.4,49.0
+Antichrist,Horror,6.6,0.4,49.0
+Friday the 13th,Horror,5.6,65.0,34.0
+Taken 3,Action,6.0,89.25,26.0
+Taken 3,Thriller,6.0,89.25,26.0
+Total Recall,Action,6.3,58.88,43.0
+Total Recall,Adventure,6.3,58.88,43.0
+Total Recall,Mystery,6.3,58.88,43.0
+X-Men: The Last Stand,Action,6.7,234.36,58.0
+X-Men: The Last Stand,Adventure,6.7,234.36,58.0
+X-Men: The Last Stand,Fantasy,6.7,234.36,58.0
+The Escort,Comedy,6.0,47.985,46.0
+The Escort,Drama,6.0,47.985,46.0
+The Escort,Romance,6.0,47.985,46.0
+The Whole Truth,Crime,6.1,47.985,59.5
+The Whole Truth,Drama,6.1,47.985,59.5
+The Whole Truth,Mystery,6.1,47.985,59.5
+Night at the Museum: Secret of the Tomb,Adventure,6.2,113.73,47.0
+Night at the Museum: Secret of the Tomb,Comedy,6.2,113.73,47.0
+Night at the Museum: Secret of the Tomb,Family,6.2,113.73,47.0
+Love & Other Drugs,Comedy,6.7,32.36,55.0
+Love & Other Drugs,Drama,6.7,32.36,55.0
+Love & Other Drugs,Romance,6.7,32.36,55.0
+The Interview,Comedy,6.6,6.11,52.0
+The Host,Comedy,7.0,2.2,85.0
+The Host,Drama,7.0,2.2,85.0
+The Host,Horror,7.0,2.2,85.0
+Megan Is Missing,Drama,4.9,47.985,94.0
+Megan Is Missing,Horror,4.9,47.985,94.0
+Megan Is Missing,Thriller,4.9,47.985,94.0
+WALL·E,Animation,8.4,223.81,59.5
+WALL·E,Adventure,8.4,223.81,59.5
+WALL·E,Family,8.4,223.81,59.5
+Knocked Up,Comedy,7.0,148.73,85.0
+Knocked Up,Romance,7.0,148.73,85.0
+Source Code,Mystery,7.5,54.7,74.0
+Source Code,Romance,7.5,54.7,74.0
+Source Code,Sci-Fi,7.5,54.7,74.0
+Lawless,Crime,7.3,37.4,58.0
+Lawless,Drama,7.3,37.4,58.0
+Unfriended,Drama,5.6,31.54,59.0
+Unfriended,Horror,5.6,31.54,59.0
+Unfriended,Mystery,5.6,31.54,59.0
+American Reunion,Comedy,6.7,56.72,49.0
+The Pursuit of Happyness,Biography,8.0,162.59,64.0
+The Pursuit of Happyness,Drama,8.0,162.59,64.0
+Relatos salvajes,Comedy,8.1,3.08,77.0
+Relatos salvajes,Drama,8.1,3.08,77.0
+Relatos salvajes,Thriller,8.1,3.08,77.0
+The Ridiculous 6,Comedy,4.8,47.985,18.0
+The Ridiculous 6,Western,4.8,47.985,18.0
+Frantz,Drama,7.5,0.86,73.0
+Frantz,History,7.5,0.86,73.0
+Frantz,War,7.5,0.86,73.0
+Viral,Drama,5.5,47.985,72.0
+Viral,Horror,5.5,47.985,72.0
+Viral,Sci-Fi,5.5,47.985,72.0
+Gran Torino,Drama,8.2,148.09,59.5
+Burnt,Comedy,6.6,13.65,42.0
+Burnt,Drama,6.6,13.65,42.0
+Tall Men,Fantasy,3.2,47.985,57.0
+Tall Men,Horror,3.2,47.985,57.0
+Tall Men,Thriller,3.2,47.985,57.0
+Sleeping Beauty,Drama,5.3,0.03,59.5
+Sleeping Beauty,Romance,5.3,0.03,59.5
+Vampire Academy,Action,5.6,7.79,30.0
+Vampire Academy,Comedy,5.6,7.79,30.0
+Vampire Academy,Fantasy,5.6,7.79,30.0
+Sweeney Todd: The Demon Barber of Fleet Street,Drama,7.4,52.88,83.0
+Sweeney Todd: The Demon Barber of Fleet Street,Horror,7.4,52.88,83.0
+Sweeney Todd: The Demon Barber of Fleet Street,Musical,7.4,52.88,83.0
+Solace,Crime,6.4,47.985,36.0
+Solace,Drama,6.4,47.985,36.0
+Solace,Mystery,6.4,47.985,36.0
+Insidious,Horror,6.8,53.99,52.0
+Insidious,Mystery,6.8,53.99,52.0
+Insidious,Thriller,6.8,53.99,52.0
+Popstar: Never Stop Never Stopping,Comedy,6.7,9.39,68.0
+Popstar: Never Stop Never Stopping,Music,6.7,9.39,68.0
+The Levelling,Drama,6.4,47.985,82.0
+Public Enemies,Biography,7.0,97.03,70.0
+Public Enemies,Crime,7.0,97.03,70.0
+Public Enemies,Drama,7.0,97.03,70.0
+Boyhood,Drama,7.9,25.36,100.0
+Teenage Mutant Ninja Turtles,Action,5.9,190.87,31.0
+Teenage Mutant Ninja Turtles,Adventure,5.9,190.87,31.0
+Teenage Mutant Ninja Turtles,Comedy,5.9,190.87,31.0
+Eastern Promises,Crime,7.7,17.11,82.0
+Eastern Promises,Drama,7.7,17.11,82.0
+Eastern Promises,Mystery,7.7,17.11,82.0
+The Daughter,Drama,6.7,0.03,62.0
+Pineapple Express,Action,7.0,87.34,64.0
+Pineapple Express,Comedy,7.0,87.34,64.0
+Pineapple Express,Crime,7.0,87.34,64.0
+The First Time,Comedy,6.9,0.02,55.0
+The First Time,Drama,6.9,0.02,55.0
+The First Time,Romance,6.9,0.02,55.0
+Gone Baby Gone,Crime,7.7,20.3,72.0
+Gone Baby Gone,Drama,7.7,20.3,72.0
+Gone Baby Gone,Mystery,7.7,20.3,72.0
+The Heat,Action,6.6,159.58,60.0
+The Heat,Comedy,6.6,159.58,60.0
+The Heat,Crime,6.6,159.58,60.0
+L'avenir,Drama,7.1,0.28,88.0
+Anna Karenina,Drama,6.6,12.8,63.0
+Anna Karenina,Romance,6.6,12.8,63.0
+Regression,Crime,5.7,0.05,32.0
+Regression,Drama,5.7,0.05,32.0
+Regression,Mystery,5.7,0.05,32.0
+Ted 2,Adventure,6.3,81.26,48.0
+Ted 2,Comedy,6.3,81.26,48.0
+Ted 2,Romance,6.3,81.26,48.0
+Pain & Gain,Comedy,6.5,49.87,45.0
+Pain & Gain,Crime,6.5,49.87,45.0
+Pain & Gain,Drama,6.5,49.87,45.0
+Blood Diamond,Adventure,8.0,57.37,64.0
+Blood Diamond,Drama,8.0,57.37,64.0
+Blood Diamond,Thriller,8.0,57.37,64.0
+Devil's Knot,Biography,6.1,47.985,42.0
+Devil's Knot,Crime,6.1,47.985,42.0
+Devil's Knot,Drama,6.1,47.985,42.0
+Child 44,Crime,6.5,1.21,41.0
+Child 44,Drama,6.5,1.21,41.0
+Child 44,Thriller,6.5,1.21,41.0
+The Hurt Locker,Drama,7.6,15.7,94.0
+The Hurt Locker,History,7.6,15.7,94.0
+The Hurt Locker,Thriller,7.6,15.7,94.0
+Green Lantern,Action,5.6,116.59,39.0
+Green Lantern,Adventure,5.6,116.59,39.0
+Green Lantern,Sci-Fi,5.6,116.59,39.0
+War on Everyone,Action,5.9,47.985,50.0
+War on Everyone,Comedy,5.9,47.985,50.0
+The Mist,Horror,7.2,25.59,58.0
+Escape Plan,Action,6.7,25.12,49.0
+Escape Plan,Crime,6.7,25.12,49.0
+Escape Plan,Mystery,6.7,25.12,49.0
+"Love, Rosie",Comedy,7.2,0.01,44.0
+"Love, Rosie",Romance,7.2,0.01,44.0
+The DUFF,Comedy,6.5,34.02,56.0
+The Age of Shadows,Action,7.2,0.54,78.0
+The Age of Shadows,Drama,7.2,0.54,78.0
+The Age of Shadows,Thriller,7.2,0.54,78.0
+The Hunger Games: Mockingjay - Part 1,Action,6.7,337.1,64.0
+The Hunger Games: Mockingjay - Part 1,Adventure,6.7,337.1,64.0
+The Hunger Games: Mockingjay - Part 1,Sci-Fi,6.7,337.1,64.0
+We Need to Talk About Kevin,Drama,7.5,1.74,68.0
+We Need to Talk About Kevin,Mystery,7.5,1.74,68.0
+We Need to Talk About Kevin,Thriller,7.5,1.74,68.0
+Love & Friendship,Comedy,6.5,14.01,87.0
+Love & Friendship,Drama,6.5,14.01,87.0
+Love & Friendship,Romance,6.5,14.01,87.0
+The Mortal Instruments: City of Bones,Action,5.9,31.17,33.0
+The Mortal Instruments: City of Bones,Fantasy,5.9,31.17,33.0
+The Mortal Instruments: City of Bones,Horror,5.9,31.17,33.0
+Seven Pounds,Drama,7.7,69.95,36.0
+Seven Pounds,Romance,7.7,69.95,36.0
+The King's Speech,Biography,8.0,138.8,88.0
+The King's Speech,Drama,8.0,138.8,88.0
+Hunger,Biography,7.6,0.15,82.0
+Hunger,Drama,7.6,0.15,82.0
+Jumper,Action,6.1,80.17,35.0
+Jumper,Adventure,6.1,80.17,35.0
+Jumper,Sci-Fi,6.1,80.17,35.0
+Toy Story 3,Animation,8.3,414.98,92.0
+Toy Story 3,Adventure,8.3,414.98,92.0
+Toy Story 3,Comedy,8.3,414.98,92.0
+Tinker Tailor Soldier Spy,Drama,7.1,24.1,85.0
+Tinker Tailor Soldier Spy,Mystery,7.1,24.1,85.0
+Tinker Tailor Soldier Spy,Thriller,7.1,24.1,85.0
+Resident Evil: Retribution,Action,5.4,42.35,39.0
+Resident Evil: Retribution,Horror,5.4,42.35,39.0
+Resident Evil: Retribution,Sci-Fi,5.4,42.35,39.0
+Dear Zindagi,Drama,7.8,1.4,56.0
+Dear Zindagi,Romance,7.8,1.4,56.0
+Genius,Biography,6.5,1.36,59.5
+Genius,Drama,6.5,1.36,59.5
+Pompeii,Action,5.5,23.22,39.0
+Pompeii,Adventure,5.5,23.22,39.0
+Pompeii,Drama,5.5,23.22,39.0
+Life of Pi,Adventure,7.9,124.98,79.0
+Life of Pi,Drama,7.9,124.98,79.0
+Life of Pi,Fantasy,7.9,124.98,79.0
+Hachi: A Dog's Tale,Drama,8.1,47.985,61.0
+Hachi: A Dog's Tale,Family,8.1,47.985,61.0
+10 Years,Comedy,6.1,0.2,59.5
+10 Years,Drama,6.1,0.2,59.5
+10 Years,Romance,6.1,0.2,59.5
+I Origins,Drama,7.3,0.33,57.0
+I Origins,Romance,7.3,0.33,57.0
+I Origins,Sci-Fi,7.3,0.33,57.0
+Live Free or Die Hard,Action,7.2,134.52,69.0
+Live Free or Die Hard,Adventure,7.2,134.52,69.0
+Live Free or Die Hard,Thriller,7.2,134.52,69.0
+The Matchbreaker,Comedy,5.5,47.985,44.0
+The Matchbreaker,Romance,5.5,47.985,44.0
+Funny Games,Crime,6.5,1.29,59.5
+Funny Games,Drama,6.5,1.29,59.5
+Funny Games,Horror,6.5,1.29,59.5
+Ted,Comedy,7.0,218.63,62.0
+Ted,Fantasy,7.0,218.63,62.0
+RED,Action,7.1,90.36,60.0
+RED,Comedy,7.1,90.36,60.0
+RED,Crime,7.1,90.36,60.0
+Australia,Adventure,6.6,49.55,53.0
+Australia,Drama,6.6,49.55,53.0
+Australia,Romance,6.6,49.55,53.0
+Faster,Action,6.5,23.23,44.0
+Faster,Crime,6.5,23.23,44.0
+Faster,Drama,6.5,23.23,44.0
+The Neighbor,Crime,5.8,47.985,60.0
+The Neighbor,Horror,5.8,47.985,60.0
+The Neighbor,Thriller,5.8,47.985,60.0
+The Adjustment Bureau,Romance,7.1,62.45,59.5
+The Adjustment Bureau,Sci-Fi,7.1,62.45,59.5
+The Adjustment Bureau,Thriller,7.1,62.45,59.5
+The Hollars,Comedy,6.5,1.02,53.0
+The Hollars,Drama,6.5,1.02,53.0
+The Hollars,Romance,6.5,1.02,53.0
+The Judge,Crime,7.4,47.11,48.0
+The Judge,Drama,7.4,47.11,48.0
+Closed Circuit,Crime,6.2,5.73,50.0
+Closed Circuit,Drama,6.2,5.73,50.0
+Closed Circuit,Mystery,6.2,5.73,50.0
+Transformers: Revenge of the Fallen,Action,6.0,402.08,35.0
+Transformers: Revenge of the Fallen,Adventure,6.0,402.08,35.0
+Transformers: Revenge of the Fallen,Sci-Fi,6.0,402.08,35.0
+La tortue rouge,Animation,7.6,0.92,86.0
+La tortue rouge,Fantasy,7.6,0.92,86.0
+The Book of Life,Animation,7.3,50.15,67.0
+The Book of Life,Adventure,7.3,50.15,67.0
+The Book of Life,Comedy,7.3,50.15,67.0
+Incendies,Drama,8.2,6.86,80.0
+Incendies,Mystery,8.2,6.86,80.0
+Incendies,War,8.2,6.86,80.0
+The Heartbreak Kid,Comedy,5.8,36.77,46.0
+The Heartbreak Kid,Romance,5.8,36.77,46.0
+Happy Feet,Animation,6.5,197.99,77.0
+Happy Feet,Comedy,6.5,197.99,77.0
+Happy Feet,Family,6.5,197.99,77.0
+Entourage,Comedy,6.6,32.36,38.0
+The Strangers,Horror,6.2,52.53,47.0
+The Strangers,Mystery,6.2,52.53,47.0
+The Strangers,Thriller,6.2,52.53,47.0
+Noah,Action,5.8,101.16,68.0
+Noah,Adventure,5.8,101.16,68.0
+Noah,Drama,5.8,101.16,68.0
+Neighbors,Comedy,6.4,150.06,68.0
+Nymphomaniac: Vol. II,Drama,6.7,0.33,60.0
+Wild,Adventure,7.1,37.88,76.0
+Wild,Biography,7.1,37.88,76.0
+Wild,Drama,7.1,37.88,76.0
+Grown Ups,Comedy,6.0,162.0,30.0
+Blair Witch,Horror,5.1,20.75,47.0
+Blair Witch,Thriller,5.1,20.75,47.0
+The Karate Kid,Action,6.2,176.59,61.0
+The Karate Kid,Drama,6.2,176.59,61.0
+The Karate Kid,Family,6.2,176.59,61.0
+Dark Shadows,Comedy,6.2,79.71,55.0
+Dark Shadows,Fantasy,6.2,79.71,55.0
+Dark Shadows,Horror,6.2,79.71,55.0
+Friends with Benefits,Comedy,6.6,55.8,63.0
+Friends with Benefits,Romance,6.6,55.8,63.0
+The Illusionist,Drama,7.6,39.83,68.0
+The Illusionist,Mystery,7.6,39.83,68.0
+The Illusionist,Romance,7.6,39.83,68.0
+The A-Team,Action,6.8,77.21,47.0
+The A-Team,Adventure,6.8,77.21,47.0
+The A-Team,Comedy,6.8,77.21,47.0
+The Guest,Thriller,6.7,0.32,76.0
+The Internship,Comedy,6.3,44.67,42.0
+Paul,Adventure,7.0,37.37,57.0
+Paul,Comedy,7.0,37.37,57.0
+Paul,Sci-Fi,7.0,37.37,57.0
+This Beautiful Fantastic,Comedy,6.9,47.985,51.0
+This Beautiful Fantastic,Drama,6.9,47.985,51.0
+This Beautiful Fantastic,Fantasy,6.9,47.985,51.0
+The Da Vinci Code,Mystery,6.6,217.54,46.0
+The Da Vinci Code,Thriller,6.6,217.54,46.0
+Mr. Church,Comedy,7.7,0.69,37.0
+Mr. Church,Drama,7.7,0.69,37.0
+Hugo,Adventure,7.5,73.82,83.0
+Hugo,Drama,7.5,73.82,83.0
+Hugo,Family,7.5,73.82,83.0
+The Blackcoat's Daughter,Horror,5.6,0.02,68.0
+The Blackcoat's Daughter,Thriller,5.6,0.02,68.0
+Body of Lies,Action,7.1,39.38,57.0
+Body of Lies,Drama,7.1,39.38,57.0
+Body of Lies,Romance,7.1,39.38,57.0
+Knight of Cups,Drama,5.7,0.56,53.0
+Knight of Cups,Romance,5.7,0.56,53.0
+The Mummy: Tomb of the Dragon Emperor,Action,5.2,102.18,31.0
+The Mummy: Tomb of the Dragon Emperor,Adventure,5.2,102.18,31.0
+The Mummy: Tomb of the Dragon Emperor,Fantasy,5.2,102.18,31.0
+The Boss,Comedy,5.4,63.03,40.0
+Hands of Stone,Action,6.6,4.71,54.0
+Hands of Stone,Biography,6.6,4.71,54.0
+Hands of Stone,Drama,6.6,4.71,54.0
+El secreto de sus ojos,Drama,8.2,20.17,80.0
+El secreto de sus ojos,Mystery,8.2,20.17,80.0
+El secreto de sus ojos,Romance,8.2,20.17,80.0
+True Grit,Adventure,7.6,171.03,80.0
+True Grit,Drama,7.6,171.03,80.0
+True Grit,Western,7.6,171.03,80.0
+We Are Your Friends,Drama,6.2,3.59,46.0
+We Are Your Friends,Music,6.2,3.59,46.0
+We Are Your Friends,Romance,6.2,3.59,46.0
+A Million Ways to Die in the West,Comedy,6.1,42.62,44.0
+A Million Ways to Die in the West,Romance,6.1,42.62,44.0
+A Million Ways to Die in the West,Western,6.1,42.62,44.0
+Only for One Night,Thriller,4.6,47.985,60.0
+Rules Don't Apply,Comedy,5.7,3.65,59.5
+Rules Don't Apply,Drama,5.7,3.65,59.5
+Rules Don't Apply,Romance,5.7,3.65,59.5
+Ouija: Origin of Evil,Horror,6.1,34.9,65.0
+Ouija: Origin of Evil,Thriller,6.1,34.9,65.0
+Percy Jackson: Sea of Monsters,Adventure,5.9,68.56,39.0
+Percy Jackson: Sea of Monsters,Family,5.9,68.56,39.0
+Percy Jackson: Sea of Monsters,Fantasy,5.9,68.56,39.0
+Fracture,Crime,7.2,39.0,68.0
+Fracture,Drama,7.2,39.0,68.0
+Fracture,Mystery,7.2,39.0,68.0
+Oculus,Horror,6.5,27.69,61.0
+Oculus,Mystery,6.5,27.69,61.0
+In Bruges,Comedy,7.9,7.76,67.0
+In Bruges,Crime,7.9,7.76,67.0
+In Bruges,Drama,7.9,7.76,67.0
+This Means War,Action,6.3,54.76,31.0
+This Means War,Comedy,6.3,54.76,31.0
+This Means War,Romance,6.3,54.76,31.0
+Lída Baarová,Biography,5.0,47.985,64.0
+Lída Baarová,Drama,5.0,47.985,64.0
+Lída Baarová,History,5.0,47.985,64.0
+The Road,Adventure,7.3,0.06,59.5
+The Road,Drama,7.3,0.06,59.5
+Lavender,Drama,5.2,47.985,46.0
+Lavender,Thriller,5.2,47.985,46.0
+Deuces,Drama,6.6,47.985,36.0
+Conan the Barbarian,Action,5.2,21.27,59.5
+Conan the Barbarian,Adventure,5.2,21.27,59.5
+Conan the Barbarian,Fantasy,5.2,21.27,59.5
+The Fighter,Action,7.8,93.57,79.0
+The Fighter,Biography,7.8,93.57,79.0
+The Fighter,Drama,7.8,93.57,79.0
+August Rush,Drama,7.5,31.66,38.0
+August Rush,Music,7.5,31.66,38.0
+Chef,Comedy,7.3,31.24,68.0
+Chef,Drama,7.3,31.24,68.0
+Eye in the Sky,Drama,7.3,18.7,73.0
+Eye in the Sky,Thriller,7.3,18.7,73.0
+Eye in the Sky,War,7.3,18.7,73.0
+Eagle Eye,Action,6.6,101.11,43.0
+Eagle Eye,Mystery,6.6,101.11,43.0
+Eagle Eye,Thriller,6.6,101.11,43.0
+The Purge,Horror,5.7,64.42,41.0
+The Purge,Sci-Fi,5.7,64.42,41.0
+The Purge,Thriller,5.7,64.42,41.0
+PK,Comedy,8.2,10.57,51.0
+PK,Drama,8.2,10.57,51.0
+PK,Romance,8.2,10.57,51.0
+Ender's Game,Action,6.7,61.66,59.5
+Ender's Game,Sci-Fi,6.7,61.66,59.5
+Indiana Jones and the Kingdom of the Crystal Skull,Action,6.2,317.01,65.0
+Indiana Jones and the Kingdom of the Crystal Skull,Adventure,6.2,317.01,65.0
+Indiana Jones and the Kingdom of the Crystal Skull,Fantasy,6.2,317.01,65.0
+Paper Towns,Drama,6.3,31.99,56.0
+Paper Towns,Mystery,6.3,31.99,56.0
+Paper Towns,Romance,6.3,31.99,56.0
+High-Rise,Drama,5.7,0.34,65.0
+Quantum of Solace,Action,6.6,168.37,58.0
+Quantum of Solace,Adventure,6.6,168.37,58.0
+Quantum of Solace,Thriller,6.6,168.37,58.0
+The Assignment,Action,4.5,47.985,34.0
+The Assignment,Crime,4.5,47.985,34.0
+The Assignment,Thriller,4.5,47.985,34.0
+How to Train Your Dragon,Animation,8.1,217.39,74.0
+How to Train Your Dragon,Action,8.1,217.39,74.0
+How to Train Your Dragon,Adventure,8.1,217.39,74.0
+Lady in the Water,Drama,5.6,42.27,36.0
+Lady in the Water,Fantasy,5.6,42.27,36.0
+Lady in the Water,Mystery,5.6,42.27,36.0
+The Fountain,Drama,7.3,10.14,51.0
+The Fountain,Sci-Fi,7.3,10.14,51.0
+Cars 2,Animation,6.2,191.45,57.0
+Cars 2,Adventure,6.2,191.45,57.0
+Cars 2,Comedy,6.2,191.45,57.0
+31,Horror,5.1,0.78,35.0
+31,Thriller,5.1,0.78,35.0
+Final Girl,Action,4.7,47.985,56.0
+Final Girl,Thriller,4.7,47.985,56.0
+Chalk It Up,Comedy,4.8,47.985,59.5
+The Man Who Knew Infinity,Biography,7.2,3.86,59.5
+The Man Who Knew Infinity,Drama,7.2,3.86,59.5
+Unknown,Action,6.9,61.09,56.0
+Unknown,Mystery,6.9,61.09,56.0
+Unknown,Thriller,6.9,61.09,56.0
+Self/less,Action,6.5,12.28,34.0
+Self/less,Mystery,6.5,12.28,34.0
+Self/less,Sci-Fi,6.5,12.28,34.0
+Mr. Brooks,Crime,7.3,28.48,45.0
+Mr. Brooks,Drama,7.3,28.48,45.0
+Mr. Brooks,Thriller,7.3,28.48,45.0
+Tramps,Comedy,6.5,47.985,77.0
+Tramps,Romance,6.5,47.985,77.0
+Before We Go,Comedy,6.9,0.04,31.0
+Before We Go,Drama,6.9,0.04,31.0
+Before We Go,Romance,6.9,0.04,31.0
+Captain Phillips,Biography,7.8,107.1,83.0
+Captain Phillips,Drama,7.8,107.1,83.0
+Captain Phillips,Thriller,7.8,107.1,83.0
+The Secret Scripture,Drama,6.8,47.985,37.0
+Max Steel,Action,4.6,3.77,22.0
+Max Steel,Adventure,4.6,3.77,22.0
+Max Steel,Family,4.6,3.77,22.0
+Hotel Transylvania 2,Animation,6.7,169.69,44.0
+Hotel Transylvania 2,Comedy,6.7,169.69,44.0
+Hotel Transylvania 2,Family,6.7,169.69,44.0
+Hancock,Action,6.4,227.95,49.0
+Hancock,Crime,6.4,227.95,49.0
+Hancock,Drama,6.4,227.95,49.0
+Sisters,Comedy,6.0,87.03,58.0
+The Family,Comedy,6.3,36.92,42.0
+The Family,Crime,6.3,36.92,42.0
+The Family,Thriller,6.3,36.92,42.0
+Zack and Miri Make a Porno,Comedy,6.6,31.45,56.0
+Zack and Miri Make a Porno,Romance,6.6,31.45,56.0
+Ma vie de Courgette,Animation,7.8,0.29,85.0
+Ma vie de Courgette,Comedy,7.8,0.29,85.0
+Ma vie de Courgette,Drama,7.8,0.29,85.0
+Man on a Ledge,Action,6.6,18.6,40.0
+Man on a Ledge,Crime,6.6,18.6,40.0
+Man on a Ledge,Thriller,6.6,18.6,40.0
+No Strings Attached,Comedy,6.2,70.63,50.0
+No Strings Attached,Romance,6.2,70.63,50.0
+Rescue Dawn,Adventure,7.3,5.48,77.0
+Rescue Dawn,Biography,7.3,5.48,77.0
+Rescue Dawn,Drama,7.3,5.48,77.0
+Despicable Me 2,Animation,7.4,368.05,62.0
+Despicable Me 2,Adventure,7.4,368.05,62.0
+Despicable Me 2,Comedy,7.4,368.05,62.0
+A Walk Among the Tombstones,Crime,6.5,25.98,57.0
+A Walk Among the Tombstones,Drama,6.5,25.98,57.0
+A Walk Among the Tombstones,Mystery,6.5,25.98,57.0
+The World's End,Action,7.0,26.0,81.0
+The World's End,Comedy,7.0,26.0,81.0
+The World's End,Sci-Fi,7.0,26.0,81.0
+Yoga Hosers,Comedy,4.3,47.985,23.0
+Yoga Hosers,Fantasy,4.3,47.985,23.0
+Yoga Hosers,Horror,4.3,47.985,23.0
+Seven Psychopaths,Comedy,7.2,14.99,66.0
+Seven Psychopaths,Crime,7.2,14.99,66.0
+Beowulf,Animation,6.2,82.16,59.0
+Beowulf,Action,6.2,82.16,59.0
+Beowulf,Adventure,6.2,82.16,59.0
+Jack Ryan: Shadow Recruit,Action,6.2,50.55,57.0
+Jack Ryan: Shadow Recruit,Drama,6.2,50.55,57.0
+Jack Ryan: Shadow Recruit,Thriller,6.2,50.55,57.0
+1408,Fantasy,6.8,71.98,64.0
+1408,Horror,6.8,71.98,64.0
+The Gambler,Crime,6.0,33.63,55.0
+The Gambler,Drama,6.0,33.63,55.0
+The Gambler,Thriller,6.0,33.63,55.0
+Prince of Persia: The Sands of Time,Action,6.6,90.76,50.0
+Prince of Persia: The Sands of Time,Adventure,6.6,90.76,50.0
+Prince of Persia: The Sands of Time,Fantasy,6.6,90.76,50.0
+The Spectacular Now,Comedy,7.1,6.85,82.0
+The Spectacular Now,Drama,7.1,6.85,82.0
+The Spectacular Now,Romance,7.1,6.85,82.0
+A United Kingdom,Biography,6.8,3.9,65.0
+A United Kingdom,Drama,6.8,3.9,65.0
+A United Kingdom,Romance,6.8,3.9,65.0
+USS Indianapolis: Men of Courage,Action,5.2,47.985,30.0
+USS Indianapolis: Men of Courage,Drama,5.2,47.985,30.0
+USS Indianapolis: Men of Courage,History,5.2,47.985,30.0
+Turbo Kid,Action,6.7,0.05,60.0
+Turbo Kid,Adventure,6.7,0.05,60.0
+Turbo Kid,Comedy,6.7,0.05,60.0
+Mama,Horror,6.2,71.59,57.0
+Mama,Thriller,6.2,71.59,57.0
+Orphan,Horror,7.0,41.57,42.0
+Orphan,Mystery,7.0,41.57,42.0
+Orphan,Thriller,7.0,41.57,42.0
+To Rome with Love,Comedy,6.3,16.68,54.0
+To Rome with Love,Romance,6.3,16.68,54.0
+Fantastic Mr. Fox,Animation,7.8,21.0,83.0
+Fantastic Mr. Fox,Adventure,7.8,21.0,83.0
+Fantastic Mr. Fox,Comedy,7.8,21.0,83.0
+Inside Man,Crime,7.6,88.5,76.0
+Inside Man,Drama,7.6,88.5,76.0
+Inside Man,Mystery,7.6,88.5,76.0
+I.T.,Crime,5.4,47.985,27.0
+I.T.,Drama,5.4,47.985,27.0
+I.T.,Mystery,5.4,47.985,27.0
+127 Hours,Adventure,7.6,18.33,82.0
+127 Hours,Biography,7.6,18.33,82.0
+127 Hours,Drama,7.6,18.33,82.0
+Annabelle,Horror,5.4,84.26,37.0
+Annabelle,Mystery,5.4,84.26,37.0
+Annabelle,Thriller,5.4,84.26,37.0
+Wolves at the Door,Horror,4.6,47.985,63.0
+Wolves at the Door,Thriller,4.6,47.985,63.0
+Suite Française,Drama,6.9,47.985,59.5
+Suite Française,Romance,6.9,47.985,59.5
+Suite Française,War,6.9,47.985,59.5
+The Imaginarium of Doctor Parnassus,Adventure,6.8,7.69,65.0
+The Imaginarium of Doctor Parnassus,Fantasy,6.8,7.69,65.0
+The Imaginarium of Doctor Parnassus,Mystery,6.8,7.69,65.0
+G.I. Joe: The Rise of Cobra,Action,5.8,150.17,32.0
+G.I. Joe: The Rise of Cobra,Adventure,5.8,150.17,32.0
+G.I. Joe: The Rise of Cobra,Sci-Fi,5.8,150.17,32.0
+Christine,Biography,7.0,0.3,72.0
+Christine,Drama,7.0,0.3,72.0
+Man Down,Drama,5.8,47.985,27.0
+Man Down,Thriller,5.8,47.985,27.0
+Crawlspace,Horror,5.3,47.985,25.0
+Crawlspace,Thriller,5.3,47.985,25.0
+Shut In,Drama,4.6,6.88,59.5
+Shut In,Horror,4.6,6.88,59.5
+Shut In,Thriller,4.6,6.88,59.5
+The Warriors Gate,Action,5.3,47.985,77.0
+The Warriors Gate,Adventure,5.3,47.985,77.0
+The Warriors Gate,Fantasy,5.3,47.985,77.0
+Grindhouse,Action,7.6,25.03,59.5
+Grindhouse,Horror,7.6,25.03,59.5
+Grindhouse,Thriller,7.6,25.03,59.5
+Disaster Movie,Comedy,1.9,14.17,15.0
+Rocky Balboa,Drama,7.2,70.27,63.0
+Rocky Balboa,Sport,7.2,70.27,63.0
+Diary of a Wimpy Kid: Dog Days,Comedy,6.4,49.0,54.0
+Diary of a Wimpy Kid: Dog Days,Family,6.4,49.0,54.0
+Jane Eyre,Drama,7.4,11.23,76.0
+Jane Eyre,Romance,7.4,11.23,76.0
+Fool's Gold,Action,5.7,70.22,29.0
+Fool's Gold,Adventure,5.7,70.22,29.0
+Fool's Gold,Comedy,5.7,70.22,29.0
+The Dictator,Comedy,6.4,59.62,58.0
+The Loft,Mystery,6.3,5.98,24.0
+The Loft,Romance,6.3,5.98,24.0
+The Loft,Thriller,6.3,5.98,24.0
+Bacalaureat,Crime,7.5,0.13,84.0
+Bacalaureat,Drama,7.5,0.13,84.0
+You Don't Mess with the Zohan,Action,5.5,100.02,54.0
+You Don't Mess with the Zohan,Comedy,5.5,100.02,54.0
+Exposed,Crime,4.2,47.985,23.0
+Exposed,Drama,4.2,47.985,23.0
+Exposed,Mystery,4.2,47.985,23.0
+Maudie,Biography,7.8,47.985,60.0
+Maudie,Drama,7.8,47.985,60.0
+Maudie,Romance,7.8,47.985,60.0
+Horrible Bosses 2,Comedy,6.3,54.41,40.0
+Horrible Bosses 2,Crime,6.3,54.41,40.0
+A Bigger Splash,Drama,6.4,1.98,74.0
+A Bigger Splash,Thriller,6.4,1.98,74.0
+Melancholia,Drama,7.1,3.03,80.0
+The Princess and the Frog,Animation,7.1,104.37,73.0
+The Princess and the Frog,Adventure,7.1,104.37,73.0
+The Princess and the Frog,Comedy,7.1,104.37,73.0
+Unstoppable,Action,6.8,81.56,69.0
+Unstoppable,Thriller,6.8,81.56,69.0
+Flight,Drama,7.3,93.75,76.0
+Flight,Thriller,7.3,93.75,76.0
+Home,Animation,6.7,177.34,55.0
+Home,Adventure,6.7,177.34,55.0
+Home,Comedy,6.7,177.34,55.0
+La migliore offerta,Crime,7.8,0.09,49.0
+La migliore offerta,Drama,7.8,0.09,49.0
+La migliore offerta,Mystery,7.8,0.09,49.0
+Mean Dreams,Thriller,6.3,47.985,64.0
+42,Biography,7.5,95.0,62.0
+42,Drama,7.5,95.0,62.0
+42,Sport,7.5,95.0,62.0
+21,Crime,6.8,81.16,48.0
+21,Drama,6.8,81.16,48.0
+21,Thriller,6.8,81.16,48.0
+Begin Again,Drama,7.4,16.17,62.0
+Begin Again,Music,7.4,16.17,62.0
+Out of the Furnace,Crime,6.8,11.33,63.0
+Out of the Furnace,Drama,6.8,11.33,63.0
+Out of the Furnace,Thriller,6.8,11.33,63.0
+Vicky Cristina Barcelona,Drama,7.1,23.21,70.0
+Vicky Cristina Barcelona,Romance,7.1,23.21,70.0
+Kung Fu Panda,Animation,7.6,215.4,73.0
+Kung Fu Panda,Action,7.6,215.4,73.0
+Kung Fu Panda,Adventure,7.6,215.4,73.0
+Barbershop: The Next Cut,Comedy,5.9,54.01,67.0
+Barbershop: The Next Cut,Drama,5.9,54.01,67.0
+Terminator Salvation,Action,6.6,125.32,49.0
+Terminator Salvation,Adventure,6.6,125.32,49.0
+Terminator Salvation,Drama,6.6,125.32,49.0
+Freedom Writers,Biography,7.5,36.58,64.0
+Freedom Writers,Crime,7.5,36.58,64.0
+Freedom Writers,Drama,7.5,36.58,64.0
+The Hills Have Eyes,Horror,6.4,41.78,52.0
+Changeling,Biography,7.8,35.71,63.0
+Changeling,Drama,7.8,35.71,63.0
+Changeling,Mystery,7.8,35.71,63.0
+Remember Me,Drama,7.2,19.06,40.0
+Remember Me,Romance,7.2,19.06,40.0
+Koe no katachi,Animation,8.4,47.985,80.0
+Koe no katachi,Drama,8.4,47.985,80.0
+Koe no katachi,Romance,8.4,47.985,80.0
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Comedy,6.2,66.95,54.0
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Family,6.2,66.95,54.0
+Locke,Drama,7.1,1.36,81.0
+The 9th Life of Louis Drax,Mystery,6.3,47.985,41.0
+The 9th Life of Louis Drax,Thriller,6.3,47.985,41.0
+Horns,Drama,6.5,0.16,46.0
+Horns,Fantasy,6.5,0.16,46.0
+Horns,Horror,6.5,0.16,46.0
+Indignation,Drama,6.9,3.4,78.0
+Indignation,Romance,6.9,3.4,78.0
+The Stanford Prison Experiment,Biography,6.9,0.64,67.0
+The Stanford Prison Experiment,Drama,6.9,0.64,67.0
+The Stanford Prison Experiment,History,6.9,0.64,67.0
+Diary of a Wimpy Kid: Rodrick Rules,Comedy,6.6,52.69,51.0
+Diary of a Wimpy Kid: Rodrick Rules,Family,6.6,52.69,51.0
+Mission: Impossible III,Action,6.9,133.38,66.0
+Mission: Impossible III,Adventure,6.9,133.38,66.0
+Mission: Impossible III,Thriller,6.9,133.38,66.0
+En man som heter Ove,Comedy,7.7,3.36,70.0
+En man som heter Ove,Drama,7.7,3.36,70.0
+Dragonball Evolution,Action,2.7,9.35,45.0
+Dragonball Evolution,Adventure,2.7,9.35,45.0
+Dragonball Evolution,Fantasy,2.7,9.35,45.0
+Red Dawn,Action,5.4,44.8,31.0
+Red Dawn,Thriller,5.4,44.8,31.0
+One Day,Drama,7.0,13.77,48.0
+One Day,Romance,7.0,13.77,48.0
+Life as We Know It,Comedy,6.6,53.36,39.0
+Life as We Know It,Drama,6.6,53.36,39.0
+Life as We Know It,Romance,6.6,53.36,39.0
+28 Weeks Later,Drama,7.0,28.64,78.0
+28 Weeks Later,Horror,7.0,28.64,78.0
+28 Weeks Later,Sci-Fi,7.0,28.64,78.0
+Warm Bodies,Comedy,6.9,66.36,59.0
+Warm Bodies,Horror,6.9,66.36,59.0
+Warm Bodies,Romance,6.9,66.36,59.0
+Blue Jasmine,Drama,7.3,33.4,78.0
+G.I. Joe: Retaliation,Action,5.8,122.51,41.0
+G.I. Joe: Retaliation,Adventure,5.8,122.51,41.0
+G.I. Joe: Retaliation,Sci-Fi,5.8,122.51,41.0
+Wrath of the Titans,Action,5.8,83.64,37.0
+Wrath of the Titans,Adventure,5.8,83.64,37.0
+Wrath of the Titans,Fantasy,5.8,83.64,37.0
+Shin Gojira,Action,6.9,1.91,68.0
+Shin Gojira,Adventure,6.9,1.91,68.0
+Shin Gojira,Drama,6.9,1.91,68.0
+Saving Mr. Banks,Biography,7.5,83.3,65.0
+Saving Mr. Banks,Comedy,7.5,83.3,65.0
+Saving Mr. Banks,Drama,7.5,83.3,65.0
+Transcendence,Drama,6.3,23.01,42.0
+Transcendence,Mystery,6.3,23.01,42.0
+Transcendence,Romance,6.3,23.01,42.0
+Rio,Animation,6.9,143.62,63.0
+Rio,Adventure,6.9,143.62,63.0
+Rio,Comedy,6.9,143.62,63.0
+Equals,Drama,6.1,0.03,43.0
+Equals,Romance,6.1,0.03,43.0
+Equals,Sci-Fi,6.1,0.03,43.0
+Babel,Drama,7.5,34.3,69.0
+The Tree of Life,Drama,6.8,13.3,85.0
+The Tree of Life,Fantasy,6.8,13.3,85.0
+The Lucky One,Drama,6.5,60.44,39.0
+The Lucky One,Romance,6.5,60.44,39.0
+Piranha 3D,Comedy,5.5,25.0,53.0
+Piranha 3D,Horror,5.5,25.0,53.0
+Piranha 3D,Thriller,5.5,25.0,53.0
+50/50,Comedy,7.7,34.96,72.0
+50/50,Drama,7.7,34.96,72.0
+50/50,Romance,7.7,34.96,72.0
+The Intent,Crime,3.5,47.985,59.0
+The Intent,Drama,3.5,47.985,59.0
+This Is 40,Comedy,6.2,67.52,59.5
+This Is 40,Romance,6.2,67.52,59.5
+Real Steel,Action,7.1,85.46,56.0
+Real Steel,Drama,7.1,85.46,56.0
+Real Steel,Family,7.1,85.46,56.0
+Sex and the City,Comedy,5.5,152.64,53.0
+Sex and the City,Drama,5.5,152.64,53.0
+Sex and the City,Romance,5.5,152.64,53.0
+Rambo,Action,7.1,42.72,46.0
+Rambo,Thriller,7.1,42.72,46.0
+Rambo,War,7.1,42.72,46.0
+Planet Terror,Action,7.1,47.985,55.0
+Planet Terror,Comedy,7.1,47.985,55.0
+Planet Terror,Horror,7.1,47.985,55.0
+Concussion,Biography,7.1,34.53,59.5
+Concussion,Drama,7.1,34.53,59.5
+Concussion,Sport,7.1,34.53,59.5
+The Fall,Adventure,7.9,2.28,64.0
+The Fall,Comedy,7.9,2.28,64.0
+The Fall,Drama,7.9,2.28,64.0
+The Ugly Truth,Comedy,6.5,88.92,28.0
+The Ugly Truth,Romance,6.5,88.92,28.0
+Bride Wars,Comedy,5.5,58.72,24.0
+Bride Wars,Romance,5.5,58.72,24.0
+Sleeping with Other People,Comedy,6.5,0.81,64.0
+Sleeping with Other People,Drama,6.5,0.81,64.0
+Sleeping with Other People,Romance,6.5,0.81,64.0
+Snakes on a Plane,Action,5.6,34.01,58.0
+Snakes on a Plane,Adventure,5.6,34.01,58.0
+Snakes on a Plane,Crime,5.6,34.01,58.0
+What If,Comedy,6.8,3.45,59.0
+What If,Romance,6.8,3.45,59.0
+How to Train Your Dragon 2,Animation,7.9,177.0,76.0
+How to Train Your Dragon 2,Action,7.9,177.0,76.0
+How to Train Your Dragon 2,Adventure,7.9,177.0,76.0
+RoboCop,Action,6.2,58.61,52.0
+RoboCop,Crime,6.2,58.61,52.0
+RoboCop,Sci-Fi,6.2,58.61,52.0
+In Dubious Battle,Drama,6.2,47.985,43.0
+"Hello, My Name Is Doris",Comedy,6.7,14.44,63.0
+"Hello, My Name Is Doris",Drama,6.7,14.44,63.0
+"Hello, My Name Is Doris",Romance,6.7,14.44,63.0
+Ocean's Thirteen,Crime,6.9,117.14,62.0
+Ocean's Thirteen,Thriller,6.9,117.14,62.0
+Slither,Comedy,6.5,7.77,69.0
+Slither,Horror,6.5,7.77,69.0
+Slither,Sci-Fi,6.5,7.77,69.0
+Contagion,Drama,6.6,75.64,70.0
+Contagion,Thriller,6.6,75.64,70.0
+Il racconto dei racconti - Tale of Tales,Drama,6.4,0.08,72.0
+Il racconto dei racconti - Tale of Tales,Fantasy,6.4,0.08,72.0
+Il racconto dei racconti - Tale of Tales,Horror,6.4,0.08,72.0
+I Am the Pretty Thing That Lives in the House,Thriller,4.7,47.985,68.0
+Bridge to Terabithia,Adventure,7.2,82.23,74.0
+Bridge to Terabithia,Drama,7.2,82.23,74.0
+Bridge to Terabithia,Family,7.2,82.23,74.0
+Coherence,Mystery,7.2,0.07,65.0
+Coherence,Sci-Fi,7.2,0.07,65.0
+Coherence,Thriller,7.2,0.07,65.0
+Notorious,Biography,6.7,36.84,60.0
+Notorious,Crime,6.7,36.84,60.0
+Notorious,Drama,6.7,36.84,60.0
+Goksung,Drama,7.5,0.79,81.0
+Goksung,Fantasy,7.5,0.79,81.0
+Goksung,Horror,7.5,0.79,81.0
+The Expendables 2,Action,6.6,85.02,51.0
+The Expendables 2,Adventure,6.6,85.02,51.0
+The Expendables 2,Thriller,6.6,85.02,51.0
+The Girl Next Door,Crime,6.7,47.985,29.0
+The Girl Next Door,Drama,6.7,47.985,29.0
+The Girl Next Door,Horror,6.7,47.985,29.0
+Perfume: The Story of a Murderer,Crime,7.5,2.21,56.0
+Perfume: The Story of a Murderer,Drama,7.5,2.21,56.0
+Perfume: The Story of a Murderer,Fantasy,7.5,2.21,56.0
+The Golden Compass,Adventure,6.1,70.08,51.0
+The Golden Compass,Family,6.1,70.08,51.0
+The Golden Compass,Fantasy,6.1,70.08,51.0
+Centurion,Action,6.4,0.12,62.0
+Centurion,Adventure,6.4,0.12,62.0
+Centurion,Drama,6.4,0.12,62.0
+Scouts Guide to the Zombie Apocalypse,Action,6.3,3.64,32.0
+Scouts Guide to the Zombie Apocalypse,Comedy,6.3,3.64,32.0
+Scouts Guide to the Zombie Apocalypse,Horror,6.3,3.64,32.0
+17 Again,Comedy,6.4,64.15,48.0
+17 Again,Drama,6.4,64.15,48.0
+17 Again,Family,6.4,64.15,48.0
+No Escape,Action,6.8,27.29,38.0
+No Escape,Thriller,6.8,27.29,38.0
+Superman Returns,Action,6.1,200.07,72.0
+Superman Returns,Adventure,6.1,200.07,72.0
+Superman Returns,Sci-Fi,6.1,200.07,72.0
+The Twilight Saga: Breaking Dawn - Part 1,Adventure,4.9,281.28,45.0
+The Twilight Saga: Breaking Dawn - Part 1,Drama,4.9,281.28,45.0
+The Twilight Saga: Breaking Dawn - Part 1,Fantasy,4.9,281.28,45.0
+Precious,Drama,7.3,47.54,79.0
+The Sea of Trees,Drama,5.9,0.02,23.0
+Good Kids,Comedy,6.1,47.985,86.0
+The Master,Drama,7.1,16.38,59.5
+Footloose,Comedy,5.9,51.78,58.0
+Footloose,Drama,5.9,51.78,58.0
+Footloose,Music,5.9,51.78,58.0
+If I Stay,Drama,6.8,50.46,46.0
+If I Stay,Fantasy,6.8,50.46,46.0
+If I Stay,Music,6.8,50.46,46.0
+The Ticket,Drama,5.4,47.985,52.0
+Detour,Thriller,6.3,47.985,46.0
+The Love Witch,Comedy,6.2,0.22,82.0
+The Love Witch,Horror,6.2,0.22,82.0
+Talladega Nights: The Ballad of Ricky Bobby,Action,6.6,148.21,66.0
+Talladega Nights: The Ballad of Ricky Bobby,Comedy,6.6,148.21,66.0
+Talladega Nights: The Ballad of Ricky Bobby,Sport,6.6,148.21,66.0
+The Human Centipede (First Sequence),Horror,4.4,0.18,33.0
+Super,Comedy,6.8,0.32,50.0
+Super,Drama,6.8,0.32,50.0
+The Siege of Jadotville,Action,7.3,47.985,83.0
+The Siege of Jadotville,Drama,7.3,47.985,83.0
+The Siege of Jadotville,Thriller,7.3,47.985,83.0
+Up in the Air,Drama,7.4,83.81,59.5
+Up in the Air,Romance,7.4,83.81,59.5
+The Midnight Meat Train,Horror,6.1,0.07,58.0
+The Midnight Meat Train,Mystery,6.1,0.07,58.0
+The Twilight Saga: Eclipse,Adventure,4.9,300.52,58.0
+The Twilight Saga: Eclipse,Drama,4.9,300.52,58.0
+The Twilight Saga: Eclipse,Fantasy,4.9,300.52,58.0
+Transpecos,Thriller,5.8,47.985,73.0
+What's Your Number?,Comedy,6.1,13.99,35.0
+What's Your Number?,Romance,6.1,13.99,35.0
+Riddick,Action,6.4,42.0,49.0
+Riddick,Sci-Fi,6.4,42.0,49.0
+Riddick,Thriller,6.4,42.0,49.0
+Triangle,Fantasy,6.9,47.985,66.0
+Triangle,Mystery,6.9,47.985,66.0
+Triangle,Thriller,6.9,47.985,66.0
+The Butler,Biography,7.2,116.63,59.5
+The Butler,Drama,7.2,116.63,59.5
+King Cobra,Crime,5.6,0.03,48.0
+King Cobra,Drama,5.6,0.03,48.0
+After Earth,Action,4.9,60.52,33.0
+After Earth,Adventure,4.9,60.52,33.0
+After Earth,Sci-Fi,4.9,60.52,33.0
+Kicks,Adventure,6.1,0.15,69.0
+Me and Earl and the Dying Girl,Comedy,7.8,6.74,74.0
+Me and Earl and the Dying Girl,Drama,7.8,6.74,74.0
+The Descendants,Comedy,7.3,82.62,84.0
+The Descendants,Drama,7.3,82.62,84.0
+Sex and the City 2,Comedy,4.3,95.33,27.0
+Sex and the City 2,Drama,4.3,95.33,27.0
+Sex and the City 2,Romance,4.3,95.33,27.0
+The Kings of Summer,Adventure,7.2,1.29,61.0
+The Kings of Summer,Comedy,7.2,1.29,61.0
+The Kings of Summer,Drama,7.2,1.29,61.0
+Death Race,Action,6.4,36.06,43.0
+Death Race,Sci-Fi,6.4,36.06,43.0
+Death Race,Thriller,6.4,36.06,43.0
+That Awkward Moment,Comedy,6.2,26.05,36.0
+That Awkward Moment,Romance,6.2,26.05,36.0
+Legion,Action,5.2,40.17,32.0
+Legion,Fantasy,5.2,40.17,32.0
+Legion,Horror,5.2,40.17,32.0
+End of Watch,Crime,7.7,40.98,68.0
+End of Watch,Drama,7.7,40.98,68.0
+End of Watch,Thriller,7.7,40.98,68.0
+3 Days to Kill,Action,6.2,30.69,40.0
+3 Days to Kill,Drama,6.2,30.69,40.0
+3 Days to Kill,Thriller,6.2,30.69,40.0
+Lucky Number Slevin,Crime,7.8,22.49,53.0
+Lucky Number Slevin,Drama,7.8,22.49,53.0
+Lucky Number Slevin,Mystery,7.8,22.49,53.0
+Trance,Crime,7.0,2.32,61.0
+Trance,Drama,7.0,2.32,61.0
+Trance,Mystery,7.0,2.32,61.0
+Into the Forest,Drama,5.9,0.01,59.0
+Into the Forest,Sci-Fi,5.9,0.01,59.0
+Into the Forest,Thriller,5.9,0.01,59.0
+The Other Boleyn Girl,Biography,6.7,26.81,50.0
+The Other Boleyn Girl,Drama,6.7,26.81,50.0
+The Other Boleyn Girl,History,6.7,26.81,50.0
+I Spit on Your Grave,Crime,6.3,0.09,27.0
+I Spit on Your Grave,Horror,6.3,0.09,27.0
+I Spit on Your Grave,Thriller,6.3,0.09,27.0
+Custody,Drama,6.9,47.985,72.0
+Inland Empire,Drama,7.0,47.985,59.5
+Inland Empire,Mystery,7.0,47.985,59.5
+Inland Empire,Thriller,7.0,47.985,59.5
+L'odyssée,Adventure,6.7,47.985,70.0
+L'odyssée,Biography,6.7,47.985,70.0
+The Walk,Adventure,7.3,10.14,59.5
+The Walk,Biography,7.3,10.14,59.5
+The Walk,Crime,7.3,10.14,59.5
+Wrecker,Action,3.5,47.985,37.0
+Wrecker,Horror,3.5,47.985,37.0
+Wrecker,Thriller,3.5,47.985,37.0
+The Lone Ranger,Action,6.5,89.29,59.5
+The Lone Ranger,Adventure,6.5,89.29,59.5
+The Lone Ranger,Western,6.5,89.29,59.5
+Texas Chainsaw 3D,Horror,4.8,34.33,62.0
+Texas Chainsaw 3D,Thriller,4.8,34.33,62.0
+Disturbia,Drama,6.9,80.05,59.5
+Disturbia,Mystery,6.9,80.05,59.5
+Disturbia,Thriller,6.9,80.05,59.5
+Rock of Ages,Comedy,5.9,38.51,47.0
+Rock of Ages,Drama,5.9,38.51,47.0
+Rock of Ages,Musical,5.9,38.51,47.0
+Scream 4,Horror,6.2,38.18,52.0
+Scream 4,Mystery,6.2,38.18,52.0
+Queen of Katwe,Biography,7.4,8.81,73.0
+Queen of Katwe,Drama,7.4,8.81,73.0
+Queen of Katwe,Sport,7.4,8.81,73.0
+My Big Fat Greek Wedding 2,Comedy,6.0,59.57,37.0
+My Big Fat Greek Wedding 2,Family,6.0,59.57,37.0
+My Big Fat Greek Wedding 2,Romance,6.0,59.57,37.0
+Dark Places,Drama,6.2,47.985,39.0
+Dark Places,Mystery,6.2,47.985,39.0
+Dark Places,Thriller,6.2,47.985,39.0
+Amateur Night,Comedy,5.0,47.985,38.0
+It's Only the End of the World,Drama,7.0,47.985,48.0
+The Skin I Live In,Drama,7.6,3.19,70.0
+The Skin I Live In,Thriller,7.6,3.19,70.0
+Miracles from Heaven,Biography,7.0,61.69,44.0
+Miracles from Heaven,Drama,7.0,61.69,44.0
+Miracles from Heaven,Family,7.0,61.69,44.0
+Annie,Comedy,5.3,85.91,33.0
+Annie,Drama,5.3,85.91,33.0
+Annie,Family,5.3,85.91,33.0
+Across the Universe,Drama,7.4,24.34,56.0
+Across the Universe,Fantasy,7.4,24.34,56.0
+Across the Universe,Musical,7.4,24.34,56.0
+Let's Be Cops,Comedy,6.5,82.39,30.0
+Max,Adventure,6.8,42.65,47.0
+Max,Family,6.8,42.65,47.0
+Your Highness,Adventure,5.6,21.56,31.0
+Your Highness,Comedy,5.6,21.56,31.0
+Your Highness,Fantasy,5.6,21.56,31.0
+Final Destination 5,Horror,5.9,42.58,50.0
+Final Destination 5,Thriller,5.9,42.58,50.0
+Endless Love,Drama,6.3,23.39,30.0
+Endless Love,Romance,6.3,23.39,30.0
+Martyrs,Horror,7.1,47.985,89.0
+Selma,Biography,7.5,52.07,59.5
+Selma,Drama,7.5,52.07,59.5
+Selma,History,7.5,52.07,59.5
+Underworld: Rise of the Lycans,Action,6.6,45.8,44.0
+Underworld: Rise of the Lycans,Adventure,6.6,45.8,44.0
+Underworld: Rise of the Lycans,Fantasy,6.6,45.8,44.0
+Taare Zameen Par,Drama,8.5,1.2,42.0
+Taare Zameen Par,Family,8.5,1.2,42.0
+Taare Zameen Par,Music,8.5,1.2,42.0
+Take Me Home Tonight,Comedy,6.3,6.92,59.5
+Take Me Home Tonight,Drama,6.3,6.92,59.5
+Take Me Home Tonight,Romance,6.3,6.92,59.5
+Resident Evil: Afterlife,Action,5.9,60.13,37.0
+Resident Evil: Afterlife,Adventure,5.9,60.13,37.0
+Resident Evil: Afterlife,Horror,5.9,60.13,37.0
+Project X,Comedy,6.7,54.72,48.0
+Secret in Their Eyes,Crime,6.2,47.985,45.0
+Secret in Their Eyes,Drama,6.2,47.985,45.0
+Secret in Their Eyes,Mystery,6.2,47.985,45.0
+Hostel: Part II,Horror,5.5,17.54,46.0
+Step Up 2: The Streets,Drama,6.2,58.01,50.0
+Step Up 2: The Streets,Music,6.2,58.01,50.0
+Step Up 2: The Streets,Romance,6.2,58.01,50.0
+Search Party,Adventure,5.6,47.985,22.0
+Search Party,Comedy,5.6,47.985,22.0
+Nine Lives,Comedy,5.3,19.64,11.0
+Nine Lives,Family,5.3,19.64,11.0
+Nine Lives,Fantasy,5.3,19.64,11.0
